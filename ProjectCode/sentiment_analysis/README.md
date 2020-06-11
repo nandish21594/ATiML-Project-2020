@@ -11,5 +11,6 @@ Starter.py : Contains core logic
 Preprocess.py: Contains only one dummy method, methods for preprocesssing can be added here later
 
 To run the code:
-Place all files in same root folder and run
-python Starter.py 
+Place all files in same root folder
+Update the dataset folder path that contains html file in Starter.py at line #52
+Run python Starter.py 
