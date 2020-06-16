@@ -9,6 +9,9 @@ from nltk.tokenize import word_tokenize
 from nltk.util import ngrams
 from collections import Counter
 
+from texthero import stop_words
+from sklearn.model_selection import train_test_split
+
 
 def top_characters(proper_nouns, top_num):
     counts = dict(Counter(proper_nouns).most_common(top_num))
@@ -39,12 +42,32 @@ def tagging(tokens):
 def number_of_characters(_token):
     tagged_text = tagging(_token)
     proper_nouns = get_proper_nouns(tagged_text)
+    print("Before stopwords",len(dict(Counter(proper_nouns))))
+    proper_nouns = [w for w in proper_nouns if not w in stop_words]
     no_characters = len(dict(Counter(proper_nouns)))
     return no_characters
 
 
 # Read the csv file into pandas dataframe
-data = pd.read_csv("master.csv", encoding="ISO-8859-1")
+# data = pd.read_csv("/Users/nandish21/Downloads/1-Masters/2nd-Sem/ATML/Project/git/git_version_4/ATiML-Project-2020/ProjectCode/master996.csv", encoding="ISO-8859-1")
+data = pd.read_csv("/Users/nandish21/Downloads/1-Masters/2nd-Sem/ATML/Project/git/git_version_4/ATiML-Project-2020/ProjectCode/master996.csv", sep=';', encoding="ISO-8859-1")
+y_true = data['guten_genre'].values
+x_train, test_df, y_train, y_test = train_test_split(data, y_true, stratify = y_true, test_size = 0.2)
+train_df, cv_df, y_train, y_cv = train_test_split(x_train, y_train, stratify = y_train, test_size = 0.2)
+
+print("Number of samples in training data :", train_df.shape[0])
+print("Number of samples in validation data :", cv_df.shape[0])
+print("Number of samples in test data :", test_df.shape[0])
+
+train_class_distribution = train_df['guten_genre'].value_counts().sort_index()
+cv_class_distribution = cv_df['guten_genre'].value_counts().sort_index()
+test_class_distribution = test_df['guten_genre'].value_counts().sort_index()
+
+
+print("\ntraining distribution:\n\n",train_class_distribution)
+print("\ncv distribution: \n\n", cv_class_distribution)
+print("\ntest distribution: \n\n", test_class_distribution)
+
 
 # Replace book id with the actual name present in html so as to iterate through html files
 data['book_id'] = data['book_id'].str.replace('.epub', '-content.html', case=False)
