@@ -90,8 +90,11 @@ def sentence_count(sentence):
 def avg_sentence_length(sentence):
     words = word_count(sentence)
     sentences = sentence_count(sentence)
-    average_sentence_length = float(words / sentences)
-    return average_sentence_length
+    if sentences == 0:
+        return 0
+    else:
+        average_sentence_length = float(words / sentences)
+        return average_sentence_length
 
 
 def syllables_count(word):
@@ -101,8 +104,11 @@ def syllables_count(word):
 def avg_syllables_per_word(sentence):
     syllable = syllables_count(sentence)
     words = word_count(sentence)
-    average_syllables_per_word = float(syllable) / float(words)
-    return legacy_round(average_syllables_per_word, 1)
+    if words == 0:
+        return 0
+    else:
+        average_syllables_per_word = float(syllable) / float(words)
+        return legacy_round(average_syllables_per_word, 1)
 
 
 def flesch_reading_score(sentence):
@@ -193,10 +199,10 @@ if __name__ == '__main__':
         bigramArray.insert(index, bigram)
         # id2word.filter_extremes(no_below=10, no_above=0.35)
         # id2word.compactify()
-        corpus = [id2word.doc2bow(text) for text in bigram_topic]
-        lda_model_tfidf = gensim.models.LdaMulticore(corpus, num_topics=5, id2word=id2word)
-        top_topics = lda_model_tfidf.get_document_topics(corpus, minimum_probability=0.0)
-        topic_vec = [top_topics[i][1][1] for i in range(5)]
+        # corpus = [id2word.doc2bow(text) for text in bigram_topic]
+        # lda_model_tfidf = gensim.models.LdaMulticore(corpus, num_topics=5, id2word=id2word)
+        # top_topics = lda_model_tfidf.get_document_topics(corpus, minimum_probability=0.0)
+        # topic_vec = [top_topics[i][1][1] for i in range(5)]
         for i in topic_vec:
             topicList.insert(index, i)
 
@@ -257,11 +263,3 @@ if __name__ == '__main__':
     # dfFeature['topic'] = topicList
     print('**************************Feature Df*****************************')
     print(dfFeature)
-
-
-
-
-
-
-
-

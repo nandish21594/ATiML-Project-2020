@@ -1,0 +1,997 @@
+Book_Name;book_id;guten_genre;Author_Name;postive;neutral;negative;sentence_length;TTR;person_count;she_pronoun;he_pronoun;ease_of_readability;class
+The Mystery of the Boule Cabinet: A Detective Story;pg10067.epub;Detective and Mystery;Stevenson| Burton Egbert;0.121;0.777;0.102;5048;0.858658798868268;104;68;309;83.4;1
+The Pupil;pg1032.epub;Literary;James| Henry;0.154;0.765;0.081;911;0.866100196966474;17;54;127;78.15;3
+At Love's Cost;pg10379.epub;Literary;Garvice| Charles;0.17;0.738;0.092;8891;0.864051621726978;201;313;392;90.04;3
+The Heart of the Range;pg10473.epub;Western Stories;White| William Patterson;0.113;0.8029999999999999;0.085;8798;0.876325196274515;280;162;408;94.47;6
+The Worshipper of the Image;pg10812.epub;Literary;Gallienne| Richard Le;0.172;0.703;0.125;1065;0.864347286790623;19;75;98;79.83;3
+The Book-Bills of Narcissus - An Account Rendered by Richard Le Gallienne;pg10826.epub;Literary;Gallienne| Richard Le;0.18;0.748;0.07200000000000001;1115;0.86721430162498;134;27;151;74.0;3
+Elusive Isabel;pg10943.epub;Detective and Mystery;Futrelle| Jacques;0.11;0.807;0.083;3074;0.865708607857053;76;108;164;80.02;1
+Joe Burke's Last Stand;pg11004.epub;Literary;Wetterau| John Moncure;0.142;0.797;0.061;8799;0.876138513679927;366;155;244;85.74;3
+O+F;pg11005.epub;Literary;Wetterau| John Moncure;0.131;0.7979999999999999;0.071;8501;0.872003970030992;253;129;266;85.96;3
+Polly and the Princess;pg11259.epub;Literary;Dowd| Emma C.;0.16899999999999998;0.725;0.107;7299;0.872305146267396;173;278;204;95.06;3
+Maggie Miller: The Story of Old Hagar's Secret;pg11280.epub;Literary;Holmes| Mary Jane;0.129;0.768;0.102;3049;0.869463313042055;130;424;264;77.32;3
+The Obstacle Race;pg11520.epub;Literary;Dell| Ethel M.;0.159;0.725;0.115;10737;0.867949468669103;116;264;351;94.11;3
+From out the Vasty Deep;pg11581.epub;Literary;Lowndes| Marie Belloc;0.155;0.7440000000000001;0.10099999999999999;4565;0.877919784833463;94;230;205;81.55;3
+Fate Knocks at the Door: A Novel;pg11655.epub;Literary;Comfort| Will Levington;0.158;0.762;0.08;7109;0.862821700485945;236;212;283;79.44;3
+The Torrent (Entre Naranjos);pg11674.epub;Literary;Ibez| Vicente Blasco;0.163;0.741;0.096;4914;0.86029037881319;218;189;253;75.45;3
+The Jolly Corner;pg1190.epub;Ghost and Horror;James| Henry;0.131;0.7909999999999999;0.078;548;0.847003375347943;11;44;127;74.91;2
+The Coxon Fund;pg1193.epub;Literary;James| Henry;0.154;0.752;0.094;1196;0.859719866716526;34;110;102;79.68;3
+The Mystery of Monastery Farm;pg11931.epub;Literary;Naylor| H. R.;0.124;0.8340000000000001;0.042;339;0.862451935621258;34;1;40;77.96;3
+Wife in Name Only;pg11970.epub;Literary;Brame| Charlotte M.;0.21;0.6890000000000001;0.10099999999999999;5895;0.864680414165123;124;279;256;82.22;3
+Darrel of the Blessed Isles;pg12102.epub;Literary;Bacheller| Irving;0.146;0.762;0.092;5625;0.866567076784298;245;163;334;92.8;3
+The Adventures of Jimmie Dale;pg1218.epub;Detective and Mystery;Packard| Frank L.;0.09699999999999999;0.8009999999999999;0.102;10285;0.858717382133206;292;131;492;80.23;1
+The Story of Bessie Costrell;pg12181.epub;Literary;Ward| Mrs. Humphry;0.098;0.7909999999999999;0.11199999999999999;1649;0.869571041798634;114;117;120;92.03;3
+Fated to Be Free: A Novel;pg12303.epub;Literary;Ingelow| Jean;0.156;0.764;0.08;7692;0.874865247255862;287;302;467;79.0;3
+Nancy: A Novel;pg12304.epub;Literary;Broughton| Rhoda;0.139;0.7490000000000001;0.11199999999999999;5829;0.869641809937748;142;103;198;81.49;3
+The Top of the World;pg12360.epub;Literary;Dell| Ethel M.;0.141;0.7490000000000001;0.11;10987;0.862619839400294;108;354;377;84.7;3
+The Reason Why;pg12450.epub;Literary;Glyn| Elinor;0.161;0.746;0.09300000000000001;5904;0.8615256116769359;223;328;347;80.12;3
+Miriam Monfort - A Novel;pg12453.epub;Literary;Warfield| Catherine A.;0.159;0.74;0.10099999999999999;7149;0.876889372416802;463;283;416;78.1;3
+A Perilous Secret;pg12470.epub;Literary;Reade| Charles;0.16899999999999998;0.718;0.113;6642;0.872673339151077;201;257;408;81.82;3
+Deadham Hard: A Romance;pg12520.epub;Literary;Malet| Lucas;0.16699999999999998;0.7290000000000001;0.10400000000000001;8810;0.8807638158019179;325;491;425;68.64;3
+A Simple Soul;pg1253.epub;Literary;Flaubert| Gustave;0.08199999999999999;0.836;0.08199999999999999;643;0.837435695763404;49;124;48;75.41;3
+A Spinner in the Sun;pg12672.epub;Literary;Reed| Myrtle;0.141;0.7390000000000001;0.12;5115;0.872047769057338;117;254;238;81.32;3
+The Autobiography of a Slander;pg1273.epub;Literary;Lyall| Edna;0.17600000000000002;0.706;0.11800000000000001;732;0.870274158670593;59;55;99;77.94;3
+Tokyo to Tijuana: Gabriele Departing America;pg12733.epub;Literary;Sills| Steven David Justin;0.114;0.7909999999999999;0.096;10479;0.871125793708433;436;514;377;69.2;3
+The Coquette's Victim - Everyday Life Library No. 1;pg12886.epub;Literary;Brame| Charlotte M;0.187;0.7;0.113;1560;0.868876795540909;75;88;121;81.87;3
+The Song of the Blood-Red Flower;pg12935.epub;Literary;Linnankoski| Johannes;0.146;0.755;0.098;5548;0.863384856965827;76;170;250;91.97;3
+People Like That - A Novel;pg12972.epub;Literary;Bosher| Kate Langley;0.11;0.785;0.106;4670;0.867463888133798;159;200;189;91.69;3
+The Lady of Big Shanty;pg12989.epub;Literary;Smith| F. Berkeley;0.13699999999999998;0.78;0.084;2212;0.874291504175938;132;121;261;83.25;3
+The Philanderers;pg13057.epub;Literary;Mason| A. E. W.;0.11900000000000001;0.7959999999999999;0.085;4243;0.857331067805941;78;173;274;80.91;3
+Coralie - Everyday Life Library No. 2;pg13162.epub;Literary;Brame| Charlotte M.;0.213;0.6940000000000001;0.09300000000000001;1949;0.865440515185241;65;101;52;91.63;3
+Broken to the Plow - A Novel;pg13178.epub;Literary;Dobie| Charles Caldwell;0.12300000000000001;0.774;0.10300000000000001;5146;0.873479003274554;76;148;317;80.5;3
+The Wild Olive: A Novel;pg13212.epub;Literary;King| Basil;0.136;0.784;0.08;5957;0.862464153350176;154;311;391;80.49;3
+The American Baron: A Novel;pg13257.epub;Literary;Mille| James De;0.14300000000000002;0.746;0.111;8823;0.870043821987401;130;276;344;84.21;3
+Out of the Ashes;pg13273.epub;Literary;Grant| Ethel Watts Mumford;0.14400000000000002;0.75;0.106;4220;0.870047532038082;99;212;290;82.84;3
+The Light That Lures;pg13312.epub;Literary;Brebner| Percy James;0.133;0.752;0.115;5907;0.867900083513112;128;114;279;81.12;3
+Miss Bretherton;pg13432.epub;Literary;Ward| Mrs. Humphry;0.174;0.748;0.078;2057;0.86134669240371;103;141;122;77.01;3
+Aylwin;pg13454.epub;Literary;Watts-Dunton| Theodore;0.133;0.77;0.09699999999999999;8872;0.860772130222292;457;388;241;80.22;3
+The Collected Works of Ambrose Bierce- Volume 1;pg13541.epub;Literary;Bierce| Ambrose;0.125;0.7509999999999999;0.12300000000000001;2812;0.855021315966748;197;20;148;58.75;3
+The Son of Clemenceau- A Novel of Modern Love and Life;pg13572.epub;Literary;Dumas| Alexandre;0.153;0.736;0.111;3489;0.86263382030125;135;209;295;75.14;3
+One Day  A sequel to 'Three Weeks';pg13776.epub;Literary;Elinor Glyn;0.18;0.7240000000000001;0.096;3480;0.865251181265069;150;174;213;81.27;3
+The Port of Missing Men;pg13913.epub;Literary;Nicholson| Meredith;0.134;0.77;0.096;4882;0.861425352363499;171;102;326;79.91;3
+The Seven Poor Travellers;pg1392.epub;Christmas Stories;Dickens| Charles;0.155;0.7659999999999999;0.079;449;0.859714929973882;44;24;57;73.03;0
+Charles Rex;pg13960.epub;Love and Romance;Dell| Ethel M.;0.159;0.745;0.096;10375;0.870906196210106;138;268;366;85.66;4
+V. V.'s Eyes;pg13985.epub;Literary;Harrison| Henry Sydnor;0.14300000000000002;0.762;0.095;10354;0.879299729218723;368;422;397;80.62;3
+The End of the World: A Love Story;pg14051.epub;Love and Romance;Eggleston| Edward;0.141;0.759;0.1;3885;0.867414875585718;282;180;306;79.96;4
+Sandy;pg14079.epub;Sea and Adventure;Rice| Alice Caldwell Hegan;0.13;0.778;0.092;3437;0.867758921108456;120;173;288;82.34;5
+If Winter Comes;pg14145.epub;Literary;Hutchinson| A. S. M.;0.132;0.772;0.096;9589;0.870522055887032;262;198;366;83.43;3
+Going into Society;pg1422.epub;Literary;Dickens| Charles;0.114;0.825;0.061;276;0.84890475135221;24;3;57;80.69;3
+Flames;pg14253.epub;Literary;Hichens| Robert;0.135;0.747;0.11800000000000001;13197;0.865712219921429;169;328;455;80.63;3
+Queed - A Novel;pg14303.epub;Literary;Harrison| Henry Sydnor;0.145;0.767;0.087;8651;0.87384880582006;310;218;460;79.38;3
+The Missing Bride;pg14382.epub;Literary;Southworth| Emma Dorothy Eliza Nevitte;0.161;0.726;0.11199999999999999;6417;0.870017280874373;241;264;299;79.83;3
+Septimus;pg14395.epub;Literary;Locke| William John;0.149;0.762;0.08900000000000001;5519;0.867265733678254;163;209;334;82.19;3
+The Exemplary Novels of Cervantes;pg14420.epub;Literary;Saavedra| Miguel de Cervantes;0.152;0.769;0.079;5388;0.862051359122323;370;303;482;69.32;3
+True Love's Reward - A Sequel to Mona;pg14427.epub;Literary;Sheldon| Mrs. Georgie;0.138;0.769;0.09300000000000001;3258;0.867002485303489;92;292;229;76.23;3
+The Doctor's Dilemma;pg14454.epub;Literary;Stretton| Hesba;0.138;0.758;0.105;7575;0.863817268130459;161;210;192;81.11;3
+A Daughter of To-Day;pg14490.epub;Literary;Duncan| Sara Jeannette;0.157;0.762;0.081;4730;0.865849726016297;194;350;251;71.02;3
+Sister Carmen;pg14523.epub;Literary;Corvus| M.;0.179;0.72;0.102;1717;0.871491766793661;71;137;163;75.69;3
+The Just and the Unjust;pg14581.epub;Literary;Kester| Vaughan;0.124;0.763;0.113;6360;0.865757183649403;105;148;453;82.82;3
+The Devil's Garden;pg14605.epub;Literary;Maxwell| W. B.;0.145;0.757;0.098;6973;0.871250879479229;173;283;433;79.43;3
+Jaffery;pg14669.epub;Literary;Locke| William John;0.153;0.748;0.099;7665;0.870235897783296;213;290;345;82.23;3
+Christian's Mistake;pg14687.epub;Literary;Craik| Dinah Maria Mulock;0.172;0.71;0.11800000000000001;3492;0.8840640320936101;98;258;170;78.6;3
+The Laurel Bush: An Old-Fashioned Love Story;pg14708.epub;Love and Romance;Craik| Dinah Maria Mulock;0.168;0.732;0.1;1833;0.878312031033037;74;143;143;78.68;4
+Vandover and the Brute;pg14712.epub;Literary;Norris| Frank;0.114;0.7929999999999999;0.09300000000000001;5386;0.85995411035854;108;101;348;78.39;3
+The Younger Set;pg14852.epub;Literary;Chambers| Robert W.;0.152;0.75;0.098;10189;0.878380543752192;273;353;459;82.89;3
+The Man Thou Gavest;pg14858.epub;Literary;Comstock| Harriet T.;0.16;0.74;0.099;6173;0.87425970276947;168;286;354;83.55;3
+Red Pottage;pg14885.epub;Literary;Cholmondeley| Mary;0.132;0.767;0.10099999999999999;3983;0.875919491940042;147;183;210;79.66;3
+The Keeper of the Door;pg15013.epub;Literary;Dell| Ethel M.;0.162;0.737;0.10099999999999999;9538;0.871721076916414;119;334;289;85.85;3
+The Cathedral;pg15067.epub;Literary;Huysmans| J.-K.;0.12;0.7979999999999999;0.08199999999999999;4465;0.838153156844953;645;154;302;61.35;3
+The Cab of the Sleeping Horse;pg15094.epub;Literary;Scott| John Reed;0.147;0.785;0.068;5118;0.8618267001402;106;240;264;82.94;3
+The Jervaise Comedy;pg15116.epub;Literary;Beresford| J. D.;0.133;0.7659999999999999;0.10099999999999999;4433;0.858574421257034;79;165;154;80.69;3
+"Sea and Shore - A Sequel to ""Miriam's Memoirs""";pg15117.epub;Literary;Warfield| Catherine A.;0.149;0.747;0.10400000000000001;3791;0.875173826600024;369;184;296;77.32;3
+David LockwinâThe People's Idol;pg15123.epub;Literary;McGovern| John;0.15;0.75;0.1;5668;0.862427288650965;125;107;260;85.37;3
+The Inner Sisterhood - A Social Study in High Colors;pg15179.epub;Literary;Sherley| Douglass;0.187;0.6859999999999999;0.126;1164;0.874212839232134;66;58;62;81.34;3
+My Mother's Rival - Everyday Life Library No. 4;pg15181.epub;Literary;Brame| Charlotte M.;0.184;0.695;0.121;1285;0.863737100098117;45;93;66;91.0;3
+Marion Arleigh's Penance - Everyday Life Library No. 5;pg15182.epub;Literary;Brame| Charlotte M.;0.213;0.691;0.096;1473;0.86327419342548;43;154;89;80.69;3
+The Tragedy of the Chain Pier - Everyday Life Library No. 3;pg15183.epub;Literary;Brame| Charlotte M.;0.171;0.6940000000000001;0.135;1397;0.850712257371343;26;92;50;90.82;3
+Lewie - The Bended Twig;pg15244.epub;Literary;Bradford| Sarah H.;0.159;0.735;0.106;2326;0.86558194341341;130;213;174;74.84;3
+Bessie's Fortune: A Novel;pg15275.epub;Literary;Holmes| Mary Jane;0.14300000000000002;0.7609999999999999;0.096;6656;0.859932732616149;360;452;456;85.1;3
+Gladys- the Reaper;pg15315.epub;Literary;Beale| Anne;0.172;0.746;0.081;10204;0.873766780156719;385;434;397;80.32;3
+The Baronet's Bride- A Woman's Vengeance;pg15317.epub;Literary;Fleming| May Agnes;0.172;0.726;0.102;319;0.85892199539105;23;3;13;90.73;3
+Tracy Park: A Novel;pg15321.epub;Literary;Holmes| Mary Jane;0.124;0.7909999999999999;0.085;7441;0.858595222047795;329;478;506;85.24;3
+The Lever: A Novel;pg15430.epub;Literary;Orcutt| William Dana;0.158;0.762;0.08;4888;0.874437986203173;140;143;355;71.26;3
+Trumps;pg15498.epub;Literary;Curtis| George William;0.18100000000000002;0.74;0.079;10228;0.87715909080489;463;319;486;80.79;3
+Captivity;pg15527.epub;Literary;Eyles| Leonora;0.122;0.757;0.122;10030;0.872381591087157;331;333;387;83.49;3
+A Splendid Hazard;pg15671.epub;Literary;MacGrath| Harold;0.165;0.742;0.092;6110;0.872464529604287;132;141;303;82.91;3
+Far to Seek - A Romance of England and India;pg15704.epub;Literary;Diver| Maud;0.156;0.7290000000000001;0.115;10237;0.879733364186112;402;366;479;81.12;3
+Bunker Bean;pg15743.epub;Literary;Wilson| Harry Leon;0.126;0.7879999999999999;0.086;5603;0.870951572107889;167;129;390;81.32;3
+Ishmael- In the Depths;pg15774.epub;Literary;Southworth| Emma Dorothy Eliza Nevitte;0.16699999999999998;0.736;0.09699999999999999;13216;0.870894741988059;347;400;493;80.51;3
+An Unpardonable Liar;pg15793.epub;Literary;Parker| Gilbert;0.14300000000000002;0.764;0.09300000000000001;1590;0.86014498490627;45;92;122;82.22;3
+The Seeker;pg15797.epub;Literary;Wilson| Harry Leon;0.168;0.731;0.10099999999999999;4238;0.874985201255209;237;192;350;76.57;3
+Walter Harland - Memories of the Past;pg15799.epub;Literary;Caswell| Harriet S.;0.158;0.752;0.091;1440;0.864391560945242;91;120;184;74.3;2
+Garman and Worse: A Norwegian Novel;pg15864.epub;Literary;Kielland| Alexander Lange;0.124;0.785;0.091;3847;0.860859670718329;138;181;280;75.57;2
+The Unseen Bridegroom- Wedded For a Week;pg15875.epub;Literary;Fleming| May Agnes;0.157;0.721;0.122;7169;0.876846735478521;227;235;181;84.08;2
+Allegories of Life;pg15895.epub;Allegories;Adams| Mrs. J. S.;0.185;0.727;0.08800000000000001;1359;0.860462328648748;40;97;113;83.21;0
+His Excellency the Minister;pg15934.epub;Literary;Claretie| Jules;0.179;0.7340000000000001;0.08800000000000001;8525;0.871219334806415;347;283;396;68.91;2
+An Englishwoman's Love-Letters;pg15941.epub;Literary;Housman| Laurence;0.193;0.716;0.091;2445;0.854351051842383;135;66;75;87.63;2
+The Fatal Glove;pg15989.epub;Literary;Augusta| Clara;0.157;0.71;0.133;3343;0.8660109103682031;102;146;154;82.4;2
+The Lost Lady of Lone;pg16039.epub;Literary;Southworth| Emma Dorothy Eliza Nevitte;0.13699999999999998;0.759;0.10400000000000001;9886;0.861929365913584;384;382;316;78.29;2
+Uncle Max;pg16080.epub;Literary;Carey| Rosa Nouchette;0.15;0.726;0.124;10754;0.868257854815224;325;371;376;82.67;2
+For Woman's Love;pg16094.epub;Literary;Southworth| Emma Dorothy Eliza Nevitte;0.14400000000000002;0.77;0.086;9338;0.868301869008395;261;293;342;79.54;2
+The Hoyden;pg16137.epub;Literary;Duchess|;0.161;0.721;0.11800000000000001;10964;0.869952771382468;184;491;369;85.08;2
+The Cromptons;pg16138.epub;Literary;Holmes| Mary Jane;0.115;0.807;0.078;5208;0.861423253906657;300;355;320;88.98;2
+A Man and a Woman;pg16143.epub;Literary;Waterloo| Stanley;0.14400000000000002;0.777;0.079;3459;0.849581274826445;119;123;242;78.39;2
+Prince Fortunatus;pg16217.epub;Literary;Black| William;0.157;0.763;0.08;8643;0.870080630782651;337;383;530;80.66;2
+Jan: A Dog and a Romance;pg16252.epub;Literary;Dawson| A. J.;0.134;0.762;0.105;3218;0.864198824646668;140;83;334;73.28;2
+Idolatry: A Romance;pg16283.epub;Literary;Hawthorne| Julian;0.153;0.735;0.11199999999999999;4713;0.874510536141146;125;163;351;68.79;2
+The Foolish Virgin;pg1634.epub;Literary;Dixon| Thomas;0.161;0.73;0.109;5785;0.863853211913983;93;222;201;92.46;2
+Ellen Walton - The Villain and His Victims;pg16345.epub;Literary;Addison| Alvin;0.16899999999999998;0.6890000000000001;0.142;1161;0.860406848641066;43;49;101;75.3;2
+The Summons;pg16381.epub;Literary;Mason| A. E. W.;0.126;0.784;0.08900000000000001;8120;0.8684181060805041;274;215;308;81.57;2
+What Necessity Knows;pg16398.epub;Literary;Dougall| L.;0.128;0.7809999999999999;0.091;7557;0.86365960075525;175;318;502;76.7;2
+Led Astray and The Sphinx - Two Novellas In One Volume;pg16403.epub;Literary;Feuillet| Octave;0.16699999999999998;0.721;0.111;2935;0.864177462846253;114;173;118;69.74;2
+The Measure of a Man;pg16453.epub;Literary;Barr| Amelia E.;0.179;0.73;0.091;5115;0.8688196765200241;232;180;255;82.27;2
+The Moon out of Reach;pg16497.epub;Love and Romance;Pedler| Margaret;0.157;0.742;0.10099999999999999;9107;0.877513097038473;205;365;344;82.19;3
+Foes;pg16554.epub;Literary;Johnston| Mary;0.124;0.804;0.07200000000000001;7560;0.866193863943714;317;107;272;91.39;2
+The Twins - A Domestic Novel;pg16574.epub;Literary;Tupper| Martin Farquhar;0.195;0.6940000000000001;0.111;1141;0.885016192677063;152;118;172;75.35;2
+The Lee Shore;pg16612.epub;Literary;Macaulay| Rose;0.162;0.742;0.096;6234;0.873526192541386;196;150;339;82.94;2
+Bad Hugh;pg16662.epub;Literary;Holmes| Mary Jane;0.136;0.76;0.10400000000000001;5821;0.875656781905656;318;376;486;79.32;2
+Eveline Mandeville - The Horse Thief Rival;pg16676.epub;Literary;Addison| Alvin;0.13699999999999998;0.731;0.132;3358;0.860626801445965;69;192;273;75.58;2
+Adrien Leroy;pg16682.epub;Literary;Garvice| Charles;0.159;0.741;0.1;4356;0.876453380929356;143;211;342;80.36;2
+A Comedy of Masks: A Novel;pg16703.epub;Literary;Dowson| Ernest Christopher| Moore| Arthur;0.14800000000000002;0.75;0.10300000000000001;4971;0.871966845236639;150;217;369;70.77;2
+The Husbands of Edith;pg16719.epub;Literary;McCutcheon| George Barr;0.16;0.746;0.094;772;0.86629101904114;31;42;74;83.01;2
+Marzio's Crucifix and Zoroaster;pg16720.epub;Literary;Crawford| F. Marion;0.141;0.759;0.10099999999999999;7025;0.853428724447462;178;259;443;75.12;2
+Mike Fletcher: A Novel;pg16730.epub;Literary;Moore| George Augustus;0.152;0.754;0.094;5141;0.862104880805342;282;156;452;79.82;2
+Jacqueline of Golden River;pg16771.epub;Literary;Egbert| H. M.;0.098;0.797;0.105;4243;0.85346865411813;110;103;184;82.06;2
+My Little Lady;pg16788.epub;Literary;Poynter| E. Frances;0.136;0.77;0.094;5152;0.871813058255877;229;347;234;78.18;2
+Elster's Folly: A Novel;pg16798.epub;Literary;Wood| Mrs. Henry;0.122;0.773;0.10400000000000001;10935;0.871673967920116;230;339;468;82.1;2
+Dangerous Ages;pg16799.epub;Literary;Macaulay| Rose;0.152;0.745;0.102;4348;0.882391337578524;157;204;119;81.34;2
+Lydia of the Pines;pg16803.epub;Literary;Morrow| Honor;0.133;0.779;0.08800000000000001;8578;0.87271615645634;190;301;256;83.93;2
+Mark Hurdlestone - The Two Brothers;pg16836.epub;Literary;Moodie| Susanna;0.188;0.672;0.141;5851;0.866551127068136;217;195;405;77.96;2
+The Halo;pg16909.epub;Literary;Hutten| Bettina Von;0.17;0.727;0.10300000000000001;5534;0.874692876225259;352;294;285;84.14;2
+The Bradys and the Girl Smuggler Working for the Custom House;pg16919.epub;Detective and Mystery;Doughty| Francis Worcester;0.107;0.78;0.113;2352;0.867425108140642;72;71;160;82.76;1
+The Bad Man: A Novel;pg16968.epub;Literary;Browne| Porter Emerson| Towne| Charles Hanson;0.152;0.733;0.115;6177;0.878361835565594;125;142;301;94.75;2
+The Vanished Messenger;pg1699.epub;Detective and Mystery;Oppenheim| E. Phillips;0.124;0.7959999999999999;0.081;7253;0.873861939506241;103;110;274;82.96;1
+Miss Dexie - A Romance of the Provinces;pg16993.epub;Literary;Eveleth| Stanford;0.16699999999999998;0.7509999999999999;0.08199999999999999;8132;0.8702122932518142;223;405;363;79.56;2
+The Half-Hearted;pg17047.epub;Sea and Adventure;Buchan| John;0.151;0.741;0.10800000000000001;6148;0.8568550518566741;242;118;339;80.59;4
+The Man and the Moment;pg17048.epub;Literary;Glyn| Elinor;0.172;0.7390000000000001;0.08800000000000001;2908;0.869777343855108;145;222;228;79.49;2
+The Crock of Gold - A Rural Novel;pg17062.epub;Literary;Tupper| Martin Farquhar;0.17600000000000002;0.69;0.134;2070;0.881076819956962;272;112;320;76.84;2
+Guy Livingstone'Thorough';pg17084.epub;Literary;Lawrence| George A.;0.147;0.731;0.122;4176;0.880332073431546;405;133;288;77.38;2
+Destiny;pg17141.epub;Literary;Buck| Charles Neville;0.139;0.759;0.102;7368;0.872347122004002;233;267;457;78.22;2
+The Actress in High Life - An Episode in Winter Quarters;pg17191.epub;Literary;Bowen| Sue Petigru;0.13699999999999998;0.775;0.08800000000000001;4622;0.87069463499487;234;186;340;64.36;2
+Atlantis;pg17241.epub;Literary;Hauptmann| Gerhart;0.127;0.777;0.096;1086;0.859878095214573;91;34;105;65.53;2
+Sunrise;pg17308.epub;Literary;Black| William;0.153;0.752;0.095;11246;0.866215708577989;262;324;462;81.48;2
+Arms and the Woman;pg17359.epub;Love and Romance;MacGrath| Harold;0.159;0.7509999999999999;0.09;6927;0.849879105505734;113;155;217;84.84;3
+Hearts and Masks;pg17390.epub;Literary;MacGrath| Harold;0.155;0.754;0.091;2306;0.860581206998674;84;54;74;84.5;2
+The Adventures of Kathlyn;pg17402.epub;Literary;MacGrath| Harold;0.115;0.772;0.113;8121;0.864988344579566;159;209;309;81.5;2
+The Thin Red Line  and Blue Blood;pg17434.epub;Literary;Griffiths| Arthur;0.138;0.743;0.11900000000000001;8155;0.878095847154404;287;174;334;80.83;2
+The Second Honeymoon;pg17446.epub;Literary;Ayres| Ruby M.;0.145;0.741;0.114;5501;0.860162991935541;69;246;280;84.96;2
+The Red Seal;pg1747.epub;Literary;Lincoln| Natalie Sumner;0.106;0.789;0.105;4083;0.870605689512595;109;180;285;72.62;2
+Other People's Money;pg1748.epub;Detective and Mystery;Gaboriau| Emile;0.135;0.757;0.10800000000000001;10141;0.869249717088013;214;313;481;78.96;1
+On the Church Steps;pg17559.epub;Literary;Hallowell| Sarah C.;0.141;0.777;0.08199999999999999;1695;0.861890938087312;83;117;51;82.13;2
+By the Light of the Soul: A Novel;pg17564.epub;Literary;Freeman| Mary Eleanor Wilkins;0.14300000000000002;0.7659999999999999;0.091;10857;0.8627470102763269;241;533;255;82.31;2
+Romance;pg17642.epub;Literary;Conrad| Joseph| Ford| Ford Madox;0.11900000000000001;0.762;0.12;11017;0.861585971689804;363;148;404;80.8;2
+Bella Donna: A Novel;pg17698.epub;Literary;Hichens| Robert;0.14;0.775;0.084;13838;0.864589532498623;210;374;422;81.81;2
+The Courage of Marge O'Doone;pg17745.epub;Literary;Curwood| James Oliver;0.122;0.774;0.10400000000000001;5960;0.8467962618767;120;137;378;88.3;2
+Foes in Ambush;pg17806.epub;Literary;King| Charles;0.10800000000000001;0.7879999999999999;0.10400000000000001;3441;0.872168878283687;159;44;252;77.96;2
+Contrary Mary;pg17938.epub;Literary;Bailey| Temple;0.151;0.7809999999999999;0.068;6262;0.863202622742869;158;264;268;91.65;2
+Betty at Fort Blizzard;pg18022.epub;Literary;Seawell| Molly Elliot;0.14400000000000002;0.772;0.084;2158;0.86080481888935;93;113;147;78.36;2
+Medoline Selwyn's Work;pg18052.epub;Literary;Colter| Mrs. J. J.;0.18100000000000002;0.727;0.091;5002;0.8745974528493179;102;153;201;80.29;2
+The Zeit-Geist;pg18054.epub;Literary;Dougall| L.;0.149;0.755;0.096;1726;0.853266401557897;36;129;163;75.0;2
+Bucky O'Connor: A Tale of the Unfenced Border;pg1809.epub;Western Stories;Raine| William MacLeod;0.146;0.7559999999999999;0.098;6077;0.867467648365709;232;143;358;82.52;5
+The Road to Mandalay - A Tale of Burma;pg18239.epub;Literary;Croker| B. M.;0.16399999999999998;0.74;0.09699999999999999;4256;0.877668545805429;297;243;274;79.81;2
+Gentle Julia;pg18259.epub;Literary;Tarkington| Booth;0.14;0.78;0.081;4872;0.882996553405209;223;267;350;83.56;2
+Enter Bridget;pg18280.epub;Literary;Cobb| Thomas;0.14;0.773;0.087;4048;0.879040037926967;87;202;208;82.32;2
+The Case of the Lamp That Went Out;pg1832.epub;Detective and Mystery;Groner| Auguste;0.10800000000000001;0.789;0.10300000000000001;2590;0.857053578886666;58;92;199;78.71;1
+The Case of the Registered Letter;pg1833.epub;Detective and Mystery;Groner| Auguste;0.11699999999999999;0.7440000000000001;0.139;885;0.851949245734909;38;19;83;77.44;1
+The Lighted Match;pg18336.epub;Literary;Buck| Charles Neville;0.11900000000000001;0.794;0.08800000000000001;4442;0.8655525399187541;154;138;320;79.3;2
+The Case of the Pocket Diary Found in the Snow;pg1834.epub;Detective and Mystery;Groner| Auguste;0.11;0.785;0.105;1104;0.860846265054715;31;40;79;79.23;1
+The Case of the Pool of Blood in the Pastor's Study;pg1835.epub;Detective and Mystery;Groner| Auguste;0.128;0.762;0.11;1215;0.851608636955714;26;10;98;78.78;1
+The Case of the Golden Bullet;pg1836.epub;Detective and Mystery;Groner| Auguste;0.132;0.777;0.09;944;0.850034577243832;26;14;106;79.3;1
+A Melody in Silver;pg18434.epub;Literary;Abbott| Keene;0.133;0.7759999999999999;0.091;1232;0.85820381136143;37;68;145;88.84;2
+Parrot & Co.;pg18443.epub;Literary;MacGrath| Harold;0.136;0.76;0.10400000000000001;5091;0.870811889368234;107;178;235;82.95;2
+The Treasure of Heaven: A Romance of Riches;pg18449.epub;Literary;Corelli| Marie;0.18600000000000003;0.72;0.095;10142;0.878553957195777;352;308;513;81.36;2
+The Vision Splendid;pg1846.epub;Western Stories;Raine| William MacLeod;0.155;0.745;0.1;6528;0.868498818788983;236;150;311;83.27;5
+The Place Beyond the Winds;pg18488.epub;Literary;Comstock| Harriet T.;0.166;0.722;0.11199999999999999;6709;0.870826852392624;173;285;293;82.72;2
+A Court of Inquiry;pg18489.epub;Literary;Richmond| Grace S.;0.14;0.789;0.071;3466;0.87205317163448;133;148;233;81.69;2
+The Yellow Crayon;pg1849.epub;Detective and Mystery;Oppenheim| E. Phillips;0.149;0.757;0.094;7363;0.868851267778247;116;116;200;84.04;1
+The Woman in the Alcove;pg1851.epub;Detective and Mystery;Green| Anna Katharine;0.136;0.762;0.10300000000000001;3518;0.858375975013622;52;86;340;76.75;1
+A Mummer's Tale;pg18545.epub;Literary;France| Anatole;0.14;0.753;0.107;3315;0.870524299551704;195;208;198;80.88;2
+Initials Only;pg1857.epub;Detective and Mystery;Green| Anna Katharine;0.133;0.758;0.109;5567;0.870602553383572;101;188;429;79.43;1
+The President: A Novel;pg18572.epub;Literary;Lewis| Alfred Henry;0.14;0.7659999999999999;0.094;6484;0.871452291533601;220;187;410;76.31;2
+The Poor Plutocrats;pg18705.epub;Literary;Jkai| Mr;0.124;0.777;0.099;5431;0.87197467983114;147;219;406;77.14;2
+Dr. Dumany's Wife;pg18708.epub;Literary;Jkai| Mr;0.158;0.741;0.1;4333;0.858439841397965;181;143;200;78.22;2
+Painted Windows;pg1875.epub;Literary;Peattie| Elia Wilkinson;0.132;0.77;0.098;812;0.842816871380872;29;54;38;77.59;2
+A Millionaire of Yesterday;pg1878.epub;Detective and Mystery;Oppenheim| E. Phillips;0.135;0.76;0.105;5729;0.867505475288645;106;98;309;82.52;1
+The House of Martha;pg18822.epub;Literary;Stockton| Frank Richard;0.14;0.7959999999999999;0.064;4700;0.845659284269471;115;270;135;79.22;2
+Winner Take All;pg18829.epub;Literary;Evans| Larry;0.132;0.76;0.10800000000000001;3330;0.874288432167327;66;159;238;84.7;2
+The Bittermeads Mystery;pg1888.epub;Detective and Mystery;Punshon| E. R.;0.129;0.76;0.111;3371;0.865917805719009;68;150;318;79.47;1
+Then I'll Come Back to You;pg18894.epub;Literary;Evans| Larry;0.115;0.7929999999999999;0.092;6596;0.877453679740867;164;312;534;80.71;2
+The Seventh Man;pg1897.epub;Western Stories;Brand| Max;0.105;0.7909999999999999;0.10400000000000001;4612;0.861229300508822;198;214;372;88.58;5
+The Starbucks;pg18984.epub;Literary;Read| Opie Percival;0.127;0.7859999999999999;0.087;4270;0.877682392349643;262;150;281;95.3;2
+Sword and Gown: A Novel;pg19121.epub;Literary;Lawrence| George A.;0.162;0.716;0.122;3161;0.8830527772559029;273;169;226;66.32;2
+The House in the Mist;pg19147.epub;Detective and Mystery;Green| Anna Katharine;0.134;0.7609999999999999;0.105;1592;0.864488824791131;75;116;139;76.71;1
+The Cow Puncher;pg19173.epub;Literary;Stead| Robert J. C.;0.14;0.768;0.092;5373;0.867206641173104;118;207;322;81.72;2
+Lady Larkspur;pg19204.epub;Literary;Nicholson| Meredith;0.15;0.7609999999999999;0.08900000000000001;1931;0.861576224204502;88;113;125;80.66;2
+The Alchemist's Secret;pg19224.epub;Literary;Williams| Isabel Cecilia;0.147;0.7390000000000001;0.114;1899;0.866681929914729;81;152;147;87.94;2
+Joyce of the North Woods;pg19225.epub;Literary;Comstock| Harriet T.;0.145;0.743;0.111;6833;0.870843131195953;158;264;358;82.39;2
+Michael McGrath- Postmaster;pg19257.epub;Literary;Connor| Ralph;0.145;0.755;0.1;497;0.855073483192987;32;2;82;81.29;2
+His Heart's Queen;pg19259.epub;Literary;Sheldon| Mrs. Georgie;0.175;0.722;0.10300000000000001;3155;0.869530330829165;93;328;211;76.59;2
+Born Again;pg19459.epub;Literary;Lawson| Alfred W.;0.166;0.733;0.1;2284;0.864112935815331;77;109;159;60.12;2
+Branded;pg19472.epub;Western Stories;Lynde| Francis;0.11;0.8029999999999999;0.08800000000000001;678;0.842934497680037;38;17;71;76.96;5
+North of Fifty-Three;pg19510.epub;Literary;Sinclair| Bertrand W.;0.12300000000000001;0.78;0.09699999999999999;6406;0.874846991812264;194;339;295;81.58;2
+Kate Danton- Captain Danton's Daughters: A Novel;pg19512.epub;Literary;Fleming| May Agnes;0.174;0.726;0.099;6119;0.877379703640909;174;201;177;83.94;2
+Sight Unseen;pg1960.epub;Detective and Mystery;Rinehart| Mary Roberts;0.10400000000000001;0.7979999999999999;0.098;2678;0.855485209391329;46;96;101;82.24;1
+The Confession;pg1963.epub;Detective and Mystery;Rinehart| Mary Roberts;0.092;0.7859999999999999;0.122;2187;0.844749536127185;53;144;55;82.65;1
+Dixie Hart;pg19818.epub;Literary;Harben| Will N.;0.128;0.7859999999999999;0.086;6922;0.864813337706915;400;355;464;91.81;2
+Heart - A Social Novel;pg20235.epub;Literary;Tupper| Martin Farquhar;0.21899999999999997;0.6579999999999999;0.122;1128;0.888407197556413;136;71;162;65.89;2
+A Political Romance;pg20257.epub;Literary;Sterne| Laurence;0.125;0.8059999999999999;0.069;207;0.849376554286093;161;2;74;72.39;2
+The Lovely Lady;pg20359.epub;Literary;Austin| Mary Hunter;0.135;0.8109999999999999;0.054000000000000006;2336;0.852825373286521;104;158;188;77.24;2
+A Son of the Hills;pg20424.epub;Literary;Comstock| Harriet T.;0.154;0.738;0.10800000000000001;6277;0.8713948023937429;195;288;346;82.16;2
+The Seventh Noon;pg20429.epub;Literary;Bartlett| Frederick Orin;0.128;0.7659999999999999;0.106;5853;0.864049275541859;85;165;327;82.93;2
+The Triflers;pg20458.epub;Literary;Bartlett| Frederick Orin;0.14300000000000002;0.769;0.08800000000000001;6268;0.864229376319315;91;263;280;91.9;2
+Ernest Linwood- The Inner Life of the Author;pg20462.epub;Literary;Hentz| Caroline Lee;0.19399999999999998;0.6940000000000001;0.11199999999999999;8915;0.864082795341221;186;255;363;79.33;2
+The Complete Prose Works of Martin Farquhar Tupper;pg20610.epub;Literary;Tupper| Martin Farquhar;0.191;0.688;0.122;5299;0.886616153722526;780;240;523;65.78;2
+The Master-Knot of Human Fate;pg20615.epub;Literary;Meredith| Ellis;0.134;0.778;0.08900000000000001;1937;0.867689334349243;95;96;105;79.89;2
+The Romance of an Old Fool;pg20661.epub;Love and Romance;Field| Roswell Martin;0.2;0.716;0.083;1068;0.847477674056994;62;80;45;68.36;3
+The Monctons: A Novel. Volume 1 (of 2);pg20835.epub;Literary;Moodie| Susanna;0.188;0.685;0.126;3104;0.865257285184703;119;97;198;77.4;2
+In Apple-Blossom Time: A Fairy-Tale to Date;pg20901.epub;Love and Romance;Burnham| Clara Louise;0.149;0.755;0.09699999999999999;4431;0.871496832573441;95;267;203;83.37;3
+Overdue: The Story of a Missing Ship;pg21067.epub;Sea and Adventure;Collingwood| Harry;0.11900000000000001;0.815;0.066;2183;0.847375972882883;102;64;146;67.38;4
+The Ghost Ship: A Mystery of the Sea;pg21087.epub;Sea and Adventure;Hutcheson| John C.;0.125;0.7759999999999999;0.1;3474;0.871348940019388;215;134;280;77.29;4
+Phyllis of Philistia;pg2155.epub;Literary;Moore| Frank Frankfort;0.16;0.7559999999999999;0.084;5129;0.853024933381391;147;222;225;79.27;2
+Rattlin the Reefer;pg21578.epub;Sea and Adventure;Howard| Edward;0.149;0.7490000000000001;0.102;6723;0.861763259818956;400;167;376;76.54;4
+On the Stairs;pg21613.epub;Literary;Fuller| Henry Blake;0.134;0.8029999999999999;0.063;2628;0.869756360964098;74;61;219;68.51;2
+April's Lady: A Novel;pg21641.epub;Literary;Duchess|;0.16699999999999998;0.711;0.122;9763;0.875566454436553;173;455;408;83.77;2
+The Making of a Soul;pg21674.epub;Literary;Rhodes| Kathlyn;0.163;0.732;0.105;6343;0.872403956313944;241;366;297;81.17;2
+The Tyranny of Weakness;pg21689.epub;Literary;Buck| Charles Neville;0.134;0.752;0.113;5390;0.866447112462661;127;262;424;78.45;2
+Flint: His Faults- His Friendships and His Fortunes;pg21690.epub;Literary;Goodwin| Maud Wilder;0.146;0.763;0.091;3177;0.873556683742391;167;139;228;80.58;2
+Agatha's Husband: A Novel;pg21767.epub;Literary;Craik| Dinah Maria Mulock;0.16899999999999998;0.7240000000000001;0.107;9326;0.888766818213342;255;382;339;80.81;2
+The Mark Of Cain;pg21821.epub;Literary;Lang| Andrew;0.13;0.772;0.09699999999999999;3068;0.868672539174492;230;122;275;78.69;2
+The Daughters of Danaus;pg21858.epub;Literary;Caird| Mona;0.16;0.716;0.12300000000000001;10184;0.873110072729285;232;326;202;69.74;2
+Afterwards;pg21867.epub;Literary;Rhodes| Kathlyn;0.154;0.733;0.114;6016;0.874756396506599;153;263;360;79.37;2
+Luna Benamor;pg21870.epub;Literary;Ibez| Vicente Blasco;0.136;0.755;0.10800000000000001;1801;0.851070101688932;90;83;157;65.38;2
+Blacksheep! Blacksheep!;pg21887.epub;Sea and Adventure;Nicholson| Meredith;0.145;0.753;0.102;5530;0.861862444187063;160;165;404;78.46;4
+Embarrassments;pg21932.epub;Literary;James| Henry;0.151;0.7659999999999999;0.083;3045;0.854972901812576;90;240;223;79.42;2
+The Pleasant Street Partnership: A Neighborhood Story;pg21944.epub;Literary;Leonard| Mary Finley;0.172;0.75;0.079;3093;0.8747563865071429;123;215;128;81.79;2
+The Lure of the Mask;pg22158.epub;Literary;MacGrath| Harold;0.156;0.753;0.092;8196;0.871458845160116;204;205;289;83.59;2
+Aunt Rachel - A Rustic Sentimental Comedy;pg22202.epub;Literary;Murray| David Christie;0.135;0.78;0.085;3247;0.867740589021029;127;121;211;80.79;2
+In Direst Peril;pg22205.epub;Literary;Murray| David Christie;0.139;0.7659999999999999;0.095;4266;0.850350170910523;107;142;220;78.83;2
+An Old Meerschaum - From Coals Of Fire And Other Stories- Volume II. (of III.);pg22206.epub;Literary;Murray| David Christie;0.149;0.743;0.10800000000000001;933;0.859704738085952;63;45;101;77.43;2
+The Romance Of Giovanni Calvotti - From Coals Of Fire And Other Stories- Volume II. (of III.);pg22207.epub;Literary;Murray| David Christie;0.147;0.7490000000000001;0.10400000000000001;1609;0.854913412559208;48;42;106;82.7;2
+Cruel Barbara Allen - From Coals Of Fire And Other Stories- Volume II. (of III.);pg22208.epub;Literary;Murray| David Christie;0.157;0.7440000000000001;0.1;663;0.858789672061179;41;37;52;80.63;2
+Molly Bawn;pg22214.epub;Literary;Duchess| ;0.179;0.701;0.12;10564;0.883121990953881;214;352;437;82.31;2
+Oswald Langdon - Pierre and Paul Lanier. A Romance of 1894-1898;pg22221.epub;Literary;Hamilton| Levi Jackson;0.138;0.7240000000000001;0.138;6001;0.899765506464969;188;71;243;59.06;2
+"Schwartz: A History - From ""Schwartz"" by David Christie Murray";pg22271.epub;Literary;Murray| David Christie;0.11199999999999999;0.81;0.078;372;0.84638491357084;27;21;61;70.9;2
+"Young Mr. Barter's Repentance - From ""Schwartz"" by David Christie Murray";pg22272.epub;Literary;Murray| David Christie;0.138;0.76;0.102;1513;0.857327834542192;62;20;169;77.03;2
+"Bulldog And Butterfly - From ""Schwartz"" by David Christie Murray";pg22273.epub;Literary;Murray| David Christie;0.16899999999999998;0.745;0.086;819;0.867052827738643;35;54;67;80.45;2
+"Julia And Her Romeo: A Chronicle Of Castle Barfield - From ""Schwartz"" by David Christie Murray";pg22274.epub;Literary;Murray| David Christie;0.129;0.754;0.11699999999999999;1217;0.869065679003404;98;58;106;81.01;2
+VC â A Chronicle of Castle Barfield and of the Crimea;pg22275.epub;Literary;Murray| David Christie;0.12300000000000001;0.7829999999999999;0.094;2469;0.8542239380180849;132;26;183;79.61;2
+Despair's Last Journey;pg22276.epub;Literary;Murray| David Christie;0.134;0.77;0.096;8970;0.859559350948919;402;202;430;80.31;2
+"The Tale Of Mr. Peter Brown - Chelsea Justice - From ""The New Decameron""|| Volume III.";pg22476.epub;Literary;Sackville-West| Vita;0.11599999999999999;0.773;0.111;618;0.852691606278633;43;17;78;79.3;2
+Mary Louise and Josie O'Gorman;pg22532.epub;Literary;Sampson| Emma Speed;0.14400000000000002;0.77;0.087;2779;0.877235838771688;154;168;102;82.36;2
+King Candaules;pg22660.epub;Literary;Gautier| Thophile;0.147;0.759;0.094;639;0.85316181391357;70;66;74;56.1;2
+32 Caliber;pg22781.epub;Literary;McGibeny| Donald;0.12;0.763;0.11800000000000001;3084;0.86401315432224;107;101;179;82.91;2
+Havoc;pg2287.epub;Detective and Mystery;Oppenheim| E. Phillips;0.127;0.784;0.08900000000000001;7386;0.870182145167227;100;146;295;82.94;1
+Doctor Luttrell's First Patient;pg22883.epub;Love and Romance;Carey| Rosa Nouchette;0.166;0.7340000000000001;0.1;3661;0.877209996127828;133;193;205;82.34;3
+Nell- of Shorne Mills- One Heart's Burden;pg22961.epub;Literary;Garvice| Charles;0.16;0.732;0.10800000000000001;11299;0.862911598524243;192;378;408;92.24;2
+A Modern Idyll;pg23009.epub;Literary;Harris| Frank;0.171;0.738;0.091;661;0.855762948988783;26;61;120;79.09;2
+Gulmore- The Boss;pg23010.epub;Literary;Harris| Frank;0.159;0.727;0.114;1192;0.863129317906328;48;87;155;81.26;2
+Elder Conklin;pg23012.epub;Literary;Harris| Frank;0.14;0.7559999999999999;0.10300000000000001;1257;0.866870473929637;50;128;158;82.89;2
+Helen and Arthur- Miss Thusa's Spinning Wheel;pg23106.epub;Literary;Hentz| Caroline Lee;0.16399999999999998;0.7120000000000001;0.124;4577;0.867282571548601;120;361;255;78.18;2
+A Chinese Command: A Story of Adventure in Eastern Seas;pg23118.epub;Sea and Adventure;Collingwood| Harry;0.099;0.7979999999999999;0.10300000000000001;3178;0.851805676128746;137;49;343;56.27;4
+Other People's Business: The Romantic Career of the Practical Miss Dale;pg23157.epub;Literary;Smith| Harriet L.;0.15;0.754;0.095;4723;0.875091936390337;171;277;221;79.82;2
+Old Ebenezer;pg23215.epub;Literary;Read| Opie Percival;0.135;0.778;0.087;5068;0.857679622414088;135;130;283;92.65;2
+The FÃªte At Coqueville - 1907;pg23222.epub;Literary;Zola| ile;0.122;0.7829999999999999;0.095;730;0.854517397923274;36;44;79;78.54;2
+Good Blood;pg23223.epub;Literary;Wildenbruch| Ernst von;0.08800000000000001;0.8270000000000001;0.085;423;0.848432811958277;14;0;101;75.64;2
+Mistress Anne;pg23246.epub;Literary;Bailey| Temple;0.147;0.7879999999999999;0.065;6921;0.861452326951243;259;226;233;92.24;2
+The Folly Of Eustace - 1896;pg23420.epub;Literary;Hichens| Robert;0.17300000000000001;0.733;0.094;735;0.86359537796584;27;52;76;80.03;2
+The Man Next Door;pg23606.epub;Literary;Hough| Emerson;0.11900000000000001;0.816;0.065;5554;0.858498079842494;120;273;345;103.38;2
+The Riddle Of The Rocks - 1895;pg23629.epub;Literary;Murfree| Mary Noailles;0.113;0.79;0.098;797;0.855944641092742;69;38;123;79.54;2
+The Phantoms Of The Foot-Bridge - 1895;pg23630.epub;Literary;Murfree| Mary Noailles;0.113;0.7909999999999999;0.096;648;0.86184789355066;58;58;119;80.15;2
+The Moonshiners At Hoho-Hebee Falls - 1895;pg23631.epub;Literary;Murfree| Mary Noailles;0.131;0.765;0.10400000000000001;1131;0.864271624183027;111;58;248;70.74;2
+'way Down In Lonesome Cove - 1895;pg23632.epub;Literary;Murfree| Mary Noailles;0.107;0.773;0.12;870;0.867895219217229;50;67;120;84.98;2
+"His ""Day In Court"" - 1895";pg23633.epub;Literary;Murfree| Mary Noailles;0.113;0.782;0.105;921;0.868359403041904;91;92;126;82.95;2
+Flamsted quarries;pg23664.epub;Literary;Waller| Mary E.;0.147;0.7829999999999999;0.071;7005;0.87032648575433;262;323;401;81.5;2
+The Dew of Their Youth;pg23736.epub;Literary;Crockett| S. R.;0.12300000000000001;0.789;0.08800000000000001;4939;0.863063745047343;390;192;259;77.0;2
+David Malcolm;pg23741.epub;Literary;Lloyd| Nelson;0.135;0.7759999999999999;0.08900000000000001;5308;0.853807381212415;208;176;322;78.77;2
+Aladdin & Co.: A Romance of Yankee Magic;pg23745.epub;Literary;Quick| Herbert;0.13699999999999998;0.792;0.071;4380;0.866218808599347;230;151;293;78.94;2
+Cruel As The Grave;pg23789.epub;Literary;Southworth| Emma Dorothy Eliza Nevitte;0.153;0.747;0.10099999999999999;6921;0.869675043805116;220;301;320;78.79;2
+A True Friend: A Novel;pg23797.epub;Literary;Sergeant| Adeline;0.174;0.7340000000000001;0.092;7368;0.870306756588865;170;325;222;81.7;2
+The Opal Serpent;pg24769.epub;Detective and Mystery;Hume| Fergus;0.128;0.757;0.115;6509;0.87309448050854;209;273;424;91.84;1
+The Book of All-Power;pg24920.epub;Literary;Wallace| Edgar;0.111;0.7979999999999999;0.09;3573;0.854540152782552;107;124;251;81.26;2
+The Kingdom Round the Corner: A Novel;pg25702.epub;Literary;Ashford| Angela| Ashford| Daisy;0.14800000000000002;0.754;0.098;7591;0.868155102829283;114;297;421;82.57;2
+An Apostate: Nawin of Thais;pg25730.epub;Literary;Dawson| Coningsby;0.114;0.7929999999999999;0.09300000000000001;4601;0.857975488982071;100;108;388;61.8;2
+Her Mother's Secret;pg26259.epub;Literary;Hume| Fergus;0.14400000000000002;0.763;0.09300000000000001;6522;0.870891158812656;240;220;248;81.36;2
+Margarita's Soul: The Romantic Recollections of a Man of Fifty;pg26277.epub;Literary;Southworth| Emma Dorothy Eliza Nevitte;0.165;0.745;0.09;4406;0.873386113670201;349;231;245;79.06;2
+Simon;pg26306.epub;Detective and Mystery;Bacon| Josephine Daskam;0.126;0.784;0.09;4869;0.869194162982526;94;178;335;81.73;1
+Madeline Payne- the Detective's Daughter;pg26482.epub;Detective and Mystery;Lynch| Lawrence L.;0.161;0.735;0.10300000000000001;7661;0.87668408138713;198;407;302;80.07;1
+Burlesques;pg2675.epub;Literary;Lynch| Lawrence L.;0.14;0.774;0.086;7122;0.8637257470065871;1398;182;413;76.84;2
+Ringfield: A Novel;pg26768.epub;Literary;Thackeray| William Makepeace;0.134;0.759;0.107;5119;0.871465882587697;329;218;338;79.54;2
+A Red Wallflower;pg26828.epub;Literary;Harrison| S. Frances;0.156;0.7709999999999999;0.073;11381;0.869330698537942;247;281;293;82.75;2
+A Pessimist in Theory and Practice;pg26847.epub;Literary;Warner| Susan;0.154;0.755;0.091;4061;0.862491623007379;119;130;150;91.19;2
+The Bradys Beyond Their Depth- The Great Swamp Mystery;pg26925.epub;Detective and Mystery;Bird| Frederic Mayer;0.10300000000000001;0.7809999999999999;0.11599999999999999;2306;0.867381190747768;74;17;163;82.36;1
+Bird of Paradise;pg27323.epub;Literary;Seltzer| Charles Alden;0.2;0.713;0.08800000000000001;4607;0.873442742812609;132;203;251;83.92;3
+The Giant's Robe;pg27507.epub;Literary;Sabin| Edwin L.;0.14300000000000002;0.754;0.102;7764;0.871170775138444;267;229;507;80.86;3
+The Seven Secrets;pg27549.epub;Detective and Mystery;Anstey| F.;0.135;0.7390000000000001;0.126;4765;0.867929276393275;123;191;210;70.93;1
+Five O'Clock Tea: Farce;pg27709.epub;Literary;Queux| William Le;0.17;0.754;0.076;730;0.852808012148473;49;9;29;88.92;3
+A Bachelor's Dream;pg27838.epub;Literary;Howells| William Dean;0.133;0.7390000000000001;0.129;1626;0.867280154280734;38;102;161;81.41;3
+The Dominant Dollar;pg27857.epub;Literary;Duchess|;0.152;0.768;0.079;6146;0.867986708012786;71;99;279;85.54;3
+Dick Leslie's Luck: A Story of Shipwreck and Adventure;pg27909.epub;Sea and Adventure;Lillibridge| Will;0.122;0.789;0.08800000000000001;3791;0.85740648900661;144;170;407;70.85;5
+Anderson Crow- Detective;pg28229.epub;Detective and Mystery;Morris| Gouverneur;0.11;0.804;0.086;5559;0.879106711954202;373;171;355;83.48;1
+A Romantic Young Lady;pg28236.epub;Literary;McCutcheon| George Barr;0.16699999999999998;0.746;0.087;4321;0.856366046169851;109;126;239;69.68;3
+The Beloved Woman;pg28301.epub;Literary;Grant| Robert;0.16399999999999998;0.746;0.09;5563;0.8705117269361;282;349;195;81.1;3
+In Brief Authority;pg28459.epub;Literary;Norris| Kathleen Thompson;0.15;0.765;0.085;7052;0.876588220447755;258;312;339;81.66;3
+Not Like Other Girls;pg28463.epub;Literary;Anstey| F.;0.162;0.726;0.11199999999999999;10225;0.879698321720118;302;436;384;81.07;3
+The Limit;pg28465.epub;Literary;Leverson| Ada;0.192;0.7190000000000001;0.08900000000000001;4624;0.878752987693711;167;186;244;84.47;3
+The Brass Bound Box;pg28509.epub;Literary;Raymond| Evelyn;0.135;0.765;0.1;4369;0.886432470132952;230;283;307;82.56;3
+Wee Wifie;pg28717.epub;Literary;Carey| Rosa Nouchette;0.163;0.722;0.115;6120;0.874236511182071;357;384;370;80.29;3
+Lover or Friend;pg28925.epub;Literary;Carey| Rosa Nouchette;0.16399999999999998;0.7340000000000001;0.102;11813;0.874500833033728;375;423;439;82.72;3
+Chit-Chat  Nirvana  The Searchlight;pg29071.epub;Literary;Holt| Mathew Joseph;0.115;0.807;0.078;3506;0.861358057205469;364;122;207;73.53;3
+Cleo The Magnificent- The Muse of the Real: A Novel;pg29207.epub;Literary;Zangwill| Louis;0.156;0.7609999999999999;0.083;4363;0.86416055020837;112;176;297;77.61;3
+The First Violin - A Novel;pg29219.epub;Literary;Fothergill| Jessie;0.152;0.759;0.08900000000000001;4595;0.8685465082866329;256;129;255;81.31;3
+People of Position;pg29274.epub;Literary;Hyatt| Stanley Portal;0.128;0.769;0.10300000000000001;3454;0.869496585025654;120;182;271;79.89;3
+Australia Revenged;pg29315.epub;Literary;Boomerang|;0.152;0.765;0.08199999999999999;5039;0.87480437443607;220;168;330;82.15;3
+An Old Sailor's Yarns;pg29323.epub;Sea and Adventure;Ames| N.;0.146;0.763;0.091;2413;0.86291534616544;294;161;267;56.89;5
+The Prisoner;pg29366.epub;Literary;Brown| Alice;0.14300000000000002;0.764;0.094;10980;0.867834841419815;140;421;423;83.65;3
+Murder Point: A Tale of Keewatin;pg29400.epub;Detective and Mystery;Dawson| Coningsby;0.099;0.782;0.11900000000000001;4766;0.85713125358992;154;85;429;75.15;1
+Rope;pg29570.epub;Literary;Hall| Holworthy;0.14;0.787;0.073;4049;0.86972760878932;120;112;272;83.49;3
+Once to Every Man;pg29646.epub;Literary;Evans| Larry;0.102;0.807;0.091;3536;0.865880344436958;135;165;389;77.55;3
+Mixed Faces;pg29657.epub;Literary;Norton| Roy;0.16;0.762;0.079;3730;0.871489105362207;208;111;317;80.02;3
+Nobody;pg29671.epub;Literary;Vance| Louis Joseph;0.14800000000000002;0.737;0.115;4366;0.87501947253636;121;311;171;71.47;3
+The Hound From The North;pg29695.epub;Literary;Cullum| Ridgwell;0.128;0.758;0.114;6969;0.867358544310969;138;228;338;81.49;3
+The Heart of Thunder Mountain;pg29697.epub;Literary;Bingham| Edfrid A.;0.11199999999999999;0.772;0.11699999999999999;6906;0.862340595245025;170;299;334;80.82;3
+Hetty's Strange History;pg29699.epub;Literary;Jackson| Helen Hunt;0.14300000000000002;0.755;0.102;3499;0.874668675943586;114;229;180;80.26;3
+The Princess Virginia;pg29715.epub;Literary;Williamson| A. M.| Williamson| C. N.;0.17600000000000002;0.736;0.08800000000000001;3396;0.8713616524148391;118;203;207;79.73;3
+The Strollers;pg29726.epub;Literary;Isham| Frederic Stewart;0.13699999999999998;0.7659999999999999;0.09699999999999999;7289;0.865590382283125;337;238;418;70.36;3
+Victor's Triumph - Sequel to A Beautiful Fiend;pg29729.epub;Literary;Southworth| Emma Dorothy Eliza Nevitte;0.161;0.747;0.092;2543;0.871581256511418;111;160;136;80.63;3
+The Missionary;pg29743.epub;Literary;Griffith| George Chetwynd;0.146;0.773;0.081;3976;0.864893225771622;176;170;218;77.56;3
+The Gorgeous Girl;pg29753.epub;Literary;Bartley| Nalbro;0.16699999999999998;0.738;0.095;5128;0.878946972154751;205;305;263;79.27;3
+The Dominant Strain;pg29760.epub;Literary;Ray| Anna Chapin;0.142;0.758;0.1;5090;0.872716460460777;173;201;274;80.87;3
+Audrey Craven;pg29766.epub;Literary;Sinclair| May;0.154;0.743;0.10300000000000001;5087;0.867829000719883;134;253;257;81.24;3
+The Man Who Wins;pg29808.epub;Literary;Herrick| Robert;0.138;0.774;0.08800000000000001;1159;0.866612408916833;42;61;128;77.96;3
+The Paliser case;pg29847.epub;Literary;Saltus| Edgar;0.128;0.78;0.091;8274;0.867301976025527;258;275;309;83.9;3
+Dwellers in the Hills;pg29851.epub;Literary;Post| Melville Davisson;0.1;0.81;0.09;3104;0.844898528112102;147;43;231;87.94;3
+A Great Man: A Frolic;pg29860.epub;Literary;Bennett| Arnold;0.153;0.774;0.073;4620;0.865193881216375;214;117;286;73.59;3
+The Old Countess- The Two Proposals;pg29862.epub;Literary;Stephens| Ann S.;0.172;0.721;0.107;5398;0.872673409588273;99;252;155;79.56;3
+Love and Lucy;pg29868.epub;Literary;Hewlett| Maurice;0.166;0.748;0.086;5448;0.865417234318066;156;222;265;93.26;3
+The Crimson Tide: A Novel;pg29880.epub;Literary;Chambers| Robert W.;0.149;0.74;0.111;8301;0.885957915830965;535;303;309;83.78;3
+The Doctor's Family;pg29890.epub;Literary;Oliphant| Mrs.;0.129;0.7490000000000001;0.122;2632;0.874145287942295;72;139;148;76.21;3
+The Rector;pg29891.epub;Literary;Oliphant| Mrs.;0.161;0.73;0.109;607;0.873034792684833;27;34;77;77.54;3
+Changing Winds - A Novel;pg29902.epub;Literary;Ervine| St. John G.;0.134;0.7759999999999999;0.09;13155;0.862911823067202;541;250;471;92.62;3
+Jan and Her Job;pg29945.epub;Literary;Harker| L. Allen;0.15;0.764;0.086;5441;0.877893965755716;208;298;335;82.13;3
+The Eye of Dread;pg30031.epub;Literary;Erskine| Payne;0.138;0.7709999999999999;0.09;9511;0.865110398982253;393;297;503;90.44;3
+In the Shadow of the Hills;pg30037.epub;Literary;Shedd| George C.;0.10800000000000001;0.774;0.11800000000000001;5935;0.873176232284659;104;170;449;80.57;3
+Jessica- the Heiress;pg30074.epub;Literary;Raymond| Evelyn;0.152;0.753;0.095;3544;0.87819188620006;160;193;259;81.56;3
+Our Next-Door Neighbors;pg30075.epub;Literary;Maniates| Belle Kanaris;0.121;0.7709999999999999;0.10800000000000001;2542;0.872390971255767;82;126;161;83.76;3
+Amaryllis at the Fair;pg30087.epub;Literary;Jefferies| Richard;0.134;0.7829999999999999;0.083;2807;0.86736659248139;191;133;227;76.52;3
+Young Barbarians;pg30089.epub;Literary;Maclaren| Ian;0.133;0.774;0.09300000000000001;2274;0.852339353766554;227;20;294;70.79;3
+Robinetta;pg30090.epub;Literary;Findlater| Jane Helen| Findlater| Mary| McAulay| Allan| Wiggin| Kate Douglas Smith;0.147;0.77;0.083;3181;0.880200331996642;169;205;166;80.8;3
+At the Crossroads;pg30095.epub;Literary;Comstock| Harriet T.;0.14;0.759;0.10099999999999999;7504;0.877615781630313;181;282;336;83.62;3
+The Vast Abyss - The Story of Tom Blount- his Uncles and his Cousin Sam;pg30106.epub;Literary;Fenn| George Manville;0.124;0.777;0.098;8308;0.868550173790629;224;53;443;90.98;3
+The Quality of Mercy;pg30108.epub;Literary;Howells| William Dean;0.136;0.7709999999999999;0.09300000000000001;6919;0.858634317479595;147;229;466;80.94;3
+Name and Fame: A Novel;pg30110.epub;Literary;Sergeant| Adeline;0.157;0.741;0.102;7713;0.864816499386831;220;349;349;77.88;3
+A Noble Woman;pg30111.epub;Literary;Stephens| Ann S.;0.14800000000000002;0.711;0.141;8555;0.8835561861765172;236;397;327;82.77;3
+Tante;pg30115.epub;Literary;Sedgwick| Anne Douglas;0.155;0.754;0.091;10312;0.86876105142649;295;480;287;82.91;3
+Daisy Brooks- A Perilous Love;pg30137.epub;Sea and Adventure;Libbey| Laura Jean;0.174;0.688;0.13699999999999998;5278;0.879246098902436;162;253;212;81.66;5
+A Manual of the Art of Fiction;pg30183.epub;Literary;Hamilton| Clayton Meeker;0.14300000000000002;0.799;0.057999999999999996;2679;0.843560631624651;518;47;197;53.12;3
+East of the Shadows;pg30193.epub;Literary;Barclay| Mrs. Hubert;0.168;0.74;0.09300000000000001;4055;0.864344058430459;98;259;201;80.69;3
+Officer 666;pg30228.epub;Literary;Currie| Barton Wood| McHugh| Augustin;0.138;0.76;0.102;4612;0.871427044122852;197;131;328;82.56;3
+Phemie Frost's Experiences;pg30245.epub;Literary;Stephens| Ann S.;0.161;0.772;0.068;6993;0.873085057468727;257;269;318;87.3;3
+Mabel's Mistake;pg30247.epub;Literary;Stephens| Ann S.;0.156;0.72;0.125;7074;0.87802353802512;139;335;296;78.7;3
+A Captain in the Ranks: A Romance of Affairs;pg30263.epub;Literary;Eggleston| George Cary;0.139;0.7829999999999999;0.078;4611;0.867768484057857;149;129;282;76.75;3
+The Phantom Lover;pg30286.epub;Literary;Ayres| Ruby M.;0.14400000000000002;0.762;0.094;7343;0.862296249656011;135;316;325;93.89;3
+The Benefactress;pg30302.epub;Literary;Arnim| Elizabeth Von;0.142;0.765;0.09300000000000001;1192;0.86585702196172;74;131;91;75.82;3
+Hope Mills- Between Friend and Sweetheart;pg30436.epub;Literary;Douglas| Amanda M.;0.18;0.723;0.09699999999999999;7260;0.879478598354786;321;223;298;78.55;3
+The Lieutenant-Governor: A Novel;pg30448.epub;Literary;Carryl| Guy Wetmore;0.13699999999999998;0.774;0.09;2614;0.861085176436858;77;50;147;69.63;3
+A Manifest Destiny;pg30464.epub;Literary;Magruder| Julia;0.154;0.752;0.094;2361;0.846374907715252;37;196;154;74.89;3
+Wild Oranges;pg30466.epub;Literary;Hergesheimer| Joseph;0.096;0.78;0.124;1620;0.853049509046492;33;56;160;70.86;3
+Outside Inn;pg30483.epub;Literary;Kelley| Ethel M.;0.138;0.765;0.09699999999999999;3575;0.868927401492752;110;236;165;81.91;3
+The Count's Millions;pg305.epub;Detective and Mystery;Gaboriau| Emile;0.14400000000000002;0.7440000000000001;0.11199999999999999;7000;0.872286371400972;200;284;501;70.46;1
+The Pines of Lory;pg30600.epub;Literary;Mitchell| John Ames;0.157;0.742;0.10099999999999999;3056;0.86698658447117;73;172;195;81.39;3
+A Danish Parsonage;pg30617.epub;Literary;Vicary| John Fulford;0.16399999999999998;0.773;0.063;3895;0.851989020219976;197;131;199;78.42;3
+Wings of the Wind;pg30618.epub;Literary;Harris| Credo Fitch;0.14;0.763;0.09699999999999999;5670;0.88490620122075;138;229;349;81.66;3
+In the Heart of a Fool;pg30627.epub;Literary;White| William Allen;0.142;0.7709999999999999;0.087;5940;0.863007353393894;394;278;418;78.77;3
+Anything Once;pg30640.epub;Literary;Ostrander| Isabel;0.10400000000000001;0.82;0.076;1425;0.871358225066164;72;131;148;90.62;3
+An Ocean Tramp;pg30648.epub;Literary;McFee| William;0.128;0.7879999999999999;0.084;3069;0.870330768246438;224;89;240;79.68;3
+Daisy's Necklace- and What Came of It;pg30668.epub;Literary;Aldrich| Thomas Bailey;0.14300000000000002;0.754;0.10300000000000001;2084;0.874454735101108;162;64;160;80.74;3
+Sir Tom;pg30692.epub;Literary;Oliphant| Mrs.;0.162;0.747;0.091;9635;0.86337991518799;202;332;286;79.05;3
+The Record of Nicholas Freydon - An Autobiography;pg30704.epub;Literary;Dawson| A. J.;0.14;0.789;0.071;3043;0.86798243746278;173;38;151;77.55;3
+Captain Pott's Minister;pg30713.epub;Literary;Cooper| Francis L.;0.131;0.772;0.096;5647;0.866607936903306;105;139;314;92.77;3
+Absolution;pg30724.epub;Literary;Viebig| Clara;0.138;0.743;0.11800000000000001;6673;0.860073159705154;127;390;373;91.09;3
+The Fate of Felix Brand;pg30733.epub;Literary;Kelly| Florence Finch;0.156;0.752;0.092;3523;0.868519247760856;63;216;317;79.61;3
+Clark's Field;pg30736.epub;Literary;Herrick| Robert;0.14;0.777;0.083;5442;0.862476252402096;202;277;272;64.4;3
+Materials and Methods of Fiction - With an Introduction by Brander Matthews;pg30776.epub;Literary;Hamilton| Clayton Meeker;0.139;0.8009999999999999;0.06;2773;0.84211374734586;461;49;210;50.5;3
+The Beggar Man;pg30817.epub;Literary;Ayres| Ruby M.;0.177;0.718;0.105;3604;0.859120116186687;47;219;171;93.27;3
+Ashton-Kirk- Criminologist;pg30838.epub;Detective and Mystery;McIntyre| John Thomas;0.11800000000000001;0.802;0.081;4891;0.858219192628838;108;128;396;81.91;1
+Kidnapped at the Altar- The Romance of that Saucy Jessie Bain;pg30980.epub;Sea and Adventure;Libbey| Laura Jean;0.142;0.7490000000000001;0.109;3919;0.865963655830622;109;237;228;79.13;5
+Ten Thousand a-Year. Volume 1.;pg31004.epub;Literary;Warren| Samuel;0.14;0.77;0.091;7121;0.880990073743476;435;198;542;77.14;3
+The Recipe for Diamonds;pg31083.epub;Sea and Adventure;Hyne| Charles John Cutcliffe Wright;0.10099999999999999;0.8190000000000001;0.08;498;0.865386790186544;25;9;54;77.75;5
+Aliens;pg31241.epub;Literary;McFee| William;0.125;0.7979999999999999;0.077;8141;0.864569149723935;280;173;361;81.86;3
+Cupid's Middleman;pg31561.epub;Literary;Lent| Edward B.;0.147;0.762;0.091;3571;0.870819015424486;157;115;223;77.85;3
+"Walladmor- Vol. 1 (of 2) - ""Freely Translated into German from the English of Sir Walter Scott."" And Now Freely Translated from the German into English.";pg31563.epub;Literary;Alexis| Willibald;0.11900000000000001;0.7859999999999999;0.095;1485;0.864931124181524;165;54;210;73.61;3
+"Walladmor- Vol. 2 (of 2) - ""Freely Translated into German from the English of Sir Walter Scott."" And Now Freely Translated from the German into English.";pg31568.epub;Literary;Alexis| Willibald;0.124;0.759;0.11699999999999999;1552;0.863083332929796;140;121;213;61.83;3
+Room Number 3- and Other Detective Stories;pg31578.epub;Detective and Mystery;Green| Anna Katharine;0.11900000000000001;0.768;0.114;5815;0.864932580721015;164;307;391;78.03;1
+The Serapion Brethren- Vol. II;pg31668.epub;Literary;Hoffmann| E. T. A.;0.154;0.733;0.113;8385;0.86840253707524;611;210;469;72.73;3
+Checkers: A Hard-luck Story;pg31813.epub;Literary;Blossom| Henry;0.16399999999999998;0.753;0.08199999999999999;2517;0.869144700187468;144;77;266;80.81;3
+The Serapion Brethren- Vol. I.;pg31820.epub;Literary;Hoffmann| E. T. A.;0.16699999999999998;0.747;0.086;9070;0.8692403952531321;525;227;467;73.64;3
+Portia- By Passions Rocked;pg31825.epub;Literary;Duchess|;0.157;0.722;0.122;7065;0.880791463396812;193;305;330;81.42;3
+An Artist in Crime;pg31915.epub;Detective and Mystery;Ottolengui| Rodrigues;0.133;0.774;0.092;4951;0.858857906221969;94;122;275;79.54;1
+The Portal of Dreams;pg31927.epub;Literary;Buck| Charles Neville;0.122;0.775;0.102;1707;0.854521571449097;57;32;100;66.69;3
+A Life Sentence: A Novel;pg31984.epub;Literary;Sergeant| Adeline;0.14400000000000002;0.738;0.11900000000000001;9761;0.868130399924744;213;389;380;81.4;3
+Captain Macedoine's Daughter;pg32042.epub;Literary;McFee| William;0.14;0.772;0.08800000000000001;5079;0.864372273099205;140;193;256;80.0;3
+A Rent In A Cloud;pg32082.epub;Literary;Lever| Charles James;0.151;0.75;0.099;3263;0.86747007504413;137;189;329;79.37;3
+Command;pg32114.epub;Sea and Adventure;McFee| William;0.128;0.7879999999999999;0.084;8410;0.86229919620197;194;238;447;79.78;5
+Rose MacLeod;pg32115.epub;Literary;Brown| Alice;0.166;0.7559999999999999;0.078;4640;0.866558277492446;63;211;199;85.18;3
+When the Cock Crows;pg32116.epub;Literary;Baily| Waldron;0.128;0.7709999999999999;0.10099999999999999;2940;0.8564518626059;113;124;287;77.08;3
+Long Live the King!;pg32132.epub;Literary;Boothby| Guy;0.13;0.792;0.078;4434;0.8579567588178142;135;81;302;76.49;3
+Arthur O'Leary: His Wanderings And Ponderings In Many Lands;pg32424.epub;Literary;Lever| Charles James;0.14400000000000002;0.763;0.09300000000000001;6695;0.86280653296674;677;146;546;73.89;3
+The Brightener;pg32428.epub;Literary;Williamson| A. M.| Williamson| C. N.;0.155;0.753;0.092;6409;0.870968971058088;276;268;262;90.64;3
+A Marriage at Sea;pg32516.epub;Sea and Adventure;Russell| William Clark;0.13699999999999998;0.794;0.069;3074;0.85758684628876;107;164;170;78.67;5
+Gerald Fitzgerald- the Chevalier: A Novel;pg32560.epub;Sea and Adventure;Viebig| Clara;0.149;0.75;0.10099999999999999;6626;0.866856831618693;415;243;588;76.19;5
+A Novelist on Novels;pg32576.epub;Literary;George| Walter Lionel;0.142;0.754;0.10400000000000001;1699;0.86646050055367;421;40;194;64.88;3
+A Day's Ride: A Life's Romance;pg32692.epub;Literary;Lever| Charles James;0.151;0.753;0.096;6959;0.862392177790252;409;271;457;77.9;3
+That Boy Of Norcott's;pg32693.epub;Literary;Lever| Charles James;0.14800000000000002;0.763;0.08900000000000001;3443;0.864325388465528;183;178;320;78.3;3
+Jacob's Ladder;pg32732.epub;Detective and Mystery;Oppenheim| E. Phillips;0.156;0.7709999999999999;0.073;4971;0.875087632883939;151;114;236;81.97;1
+"Tried for Her Life - A Sequel to ""Cruel As the Grave""";pg32757.epub;Literary;Southworth| Emma Dorothy Eliza Nevitte;0.128;0.7509999999999999;0.122;1563;0.8666223660606069;60;109;106;79.24;3
+Fairfax and His Pride: A Novel;pg32826.epub;Literary;Vorst| Marie Van;0.151;0.769;0.08;7015;0.861164696776773;240;233;393;80.77;3
+One Of Them;pg32840.epub;Literary;Lever| Charles James;0.15;0.7490000000000001;0.1;10824;0.874260835327138;446;412;760;79.56;3
+Lady Cassandra;pg32882.epub;Literary;Vaizey| Mrs. George de Horne;0.17;0.7340000000000001;0.096;7963;0.872568748811652;159;305;214;81.4;3
+Sir Hilton's Sin;pg32915.epub;Literary;Fenn| George Manville;0.17;0.7290000000000001;0.10099999999999999;4957;0.872793004994515;162;150;203;94.58;3
+The Sapphire Cross;pg32917.epub;Literary;Fenn| George Manville;0.138;0.7440000000000001;0.11699999999999999;5499;0.874238445457436;266;248;429;79.26;3
+Thereby Hangs a Tale. Volume One;pg32929.epub;Literary;Fenn| George Manville;0.154;0.7440000000000001;0.10099999999999999;6469;0.8801078039285;239;211;348;92.58;3
+An Unknown Lover;pg32936.epub;Literary;Vaizey| Mrs. George de Horne;0.177;0.726;0.098;5749;0.875107792547453;139;244;178;81.01;3
+The Red Rat's Daughter;pg33004.epub;Detective and Mystery;Boothby| Guy;0.136;0.794;0.07;4739;0.862355695412901;144;161;300;78.47;1
+The Green God;pg33019.epub;Detective and Mystery;Kummer| Frederic Arnold;0.09699999999999999;0.79;0.11199999999999999;2471;0.846972397782378;40;89;176;75.46;1
+Sir Jasper Carew: His Life and Experience;pg33081.epub;Literary;Lever| Charles James;0.14800000000000002;0.7509999999999999;0.10099999999999999;8761;0.8627159641762521;475;270;666;65.7;3
+The Truth About Tristrem Varick: A Novel;pg33099.epub;Literary;Saltus| Edgar;0.122;0.8;0.079;2614;0.845057840754127;115;126;283;80.22;3
+Was It Right to Forgive? A Domestic Romance;pg33195.epub;Literary;Barr| Amelia E.;0.18600000000000003;0.713;0.10099999999999999;5732;0.867790728436119;196;278;198;81.57;3
+Faith and Unfaith: A Novel;pg33312.epub;Literary;Duchess|;0.179;0.71;0.111;7484;0.879371827632058;228;321;321;82.0;3
+The Little Schoolmaster Mark: A Spiritual Romance;pg33401.epub;Literary;Davis| Richard Harding;0.172;0.72;0.10800000000000001;1587;0.851826585301801;70;76;114;78.11;3
+A Man in the Open;pg33423.epub;Literary;Pocock| Roger;0.124;0.759;0.11699999999999999;4448;0.881319370565264;334;192;308;91.44;3
+Roland Cashel- Volume I (of II);pg33468.epub;Literary;Lever| Charles James;0.156;0.748;0.096;6452;0.876892253765682;438;222;477;77.84;3
+Roland Cashel- Volume II (of II);pg33469.epub;Literary;Lever| Charles James;0.146;0.745;0.11;6748;0.874690395246471;242;239;514;77.05;3
+The Furnace;pg33482.epub;Literary;Macaulay| Rose;0.13699999999999998;0.77;0.092;2365;0.875987961262961;61;115;98;80.85;3
+The Gambler: A Novel;pg33490.epub;Literary;Thurston| Katherine Cecil;0.158;0.755;0.087;9876;0.869586834814565;177;326;319;81.49;3
+Bransford of Rainbow Range - Originally Published under the title of Bransford in Arcadia- The Little Eohippus;pg33498.epub;Western Stories;Rhodes| Eugene Manlove;0.138;0.7559999999999999;0.107;4299;0.884893058300275;324;91;317;83.63;6
+The Fortunes Of Glencore;pg33556.epub;Literary;Lever| Charles James;0.15;0.752;0.098;7544;0.867602339157072;396;187;609;77.92;3
+The Bachelors: A Novel;pg33565.epub;Literary;Orcutt| William Dana;0.183;0.737;0.08;6675;0.87857801775246;156;205;397;72.37;3
+Tony Butler;pg33604.epub;Literary;Lever| Charles James;0.152;0.763;0.085;10321;0.869463658595181;557;381;759;80.14;3
+Norine's Revenge- and- Sir Noel's Heir;pg33664.epub;Literary;Fleming| May Agnes;0.165;0.722;0.113;7690;0.87965774280882;361;285;299;82.65;3
+X Y Z: A Detective Story;pg33695.epub;Detective and Mystery;Green| Anna Katharine;0.12300000000000001;0.767;0.111;949;0.860029962087608;31;45;126;76.91;1
+The Cottage of Delight: A Novel;pg33715.epub;Literary;Harben| Will N.;0.126;0.789;0.085;9260;0.865812937924338;234;320;448;91.96;3
+An Engagement of Convenience: A Novel;pg33747.epub;Literary;Zangwill| Louis;0.187;0.728;0.085;4659;0.866277211804405;107;235;287;70.64;3
+The Key to Yesterday;pg33759.epub;Literary;Buck| Charles Neville;0.122;0.787;0.091;3772;0.860616687258054;127;123;288;77.73;3
+The Haunted Pajamas;pg33780.epub;Literary;Elliott| Francis Perry;0.15;0.7609999999999999;0.08900000000000001;6579;0.866600044371178;157;193;372;86.09;3
+King of Camargue;pg33867.epub;Literary;Aicard| Jean;0.138;0.767;0.095;4122;0.854988282136436;150;239;281;74.75;3
+Regina- or the Sins of the Fathers;pg33892.epub;Literary;Sudermann| Hermann;0.124;0.7559999999999999;0.11900000000000001;5309;0.862916432509688;115;209;374;78.22;3
+The Unknown Sea;pg33945.epub;Allegories;Housman| Clemence;0.146;0.6890000000000001;0.165;4179;0.874353943820671;71;248;347;80.91;0
+The Reclaimers;pg33959.epub;Literary;McCarter| Margaret Hill;0.136;0.7879999999999999;0.075;5191;0.875910801184426;223;223;202;79.88;3
+The Mysterious Wanderer- Vol. I;pg33973.epub;Literary;Reeve| Sophia;0.149;0.731;0.12;1152;0.8603527711592;245;62;170;66.73;3
+Love Works Wonders: A Novel;pg33989.epub;Literary;Brame| Charlotte M.;0.21899999999999997;0.672;0.109;4549;0.870255114578361;125;248;183;80.98;3
+The BelovÃ©d Traitor;pg34034.epub;Literary;Packard| Frank L.;0.142;0.768;0.09;6638;0.857535619480688;142;238;268;90.13;3
+The Hillman;pg34035.epub;Detective and Mystery;Oppenheim| E. Phillips;0.14300000000000002;0.7829999999999999;0.07400000000000001;7404;0.8709782181559721;118;201;243;82.8;1
+Whispering Wires;pg34046.epub;Detective and Mystery;Leverage| Henry;0.091;0.823;0.087;7372;0.8654816877259;135;60;226;84.52;1
+A Poached Peerage;pg34088.epub;Literary;Magnay| Sir William;0.158;0.732;0.11;6186;0.877805786874676;201;165;381;72.72;3
+Lady Maude's Mania;pg34138.epub;Literary;Fenn| George Manville;0.156;0.7290000000000001;0.115;4805;0.879023563064477;210;185;287;93.42;3
+A Double Knot;pg34140.epub;Literary;Fenn| George Manville;0.158;0.7240000000000001;0.11800000000000001;8572;0.878533015793831;329;286;388;81.7;3
+By Birth a Lady;pg34142.epub;Literary;Fenn| George Manville;0.146;0.741;0.113;6081;0.879187462048444;269;318;374;80.31;3
+A Blot on the Scutcheon;pg34164.epub;Literary;Knowles| Mabel Winifred;0.0;0.0;0.0;0;0.0;0;0;0;206.84;3
+Capricious Caroline;pg34166.epub;Literary;Rowlands| Effie Adelaide;0.151;0.76;0.08900000000000001;5858;0.866941968507356;99;369;235;82.5;3
+Zula;pg34168.epub;Literary;Lindley| H. Esselstyn;0.157;0.723;0.11900000000000001;5351;0.866612074759901;91;277;212;91.75;3
+The Girl From Tim's Place;pg34202.epub;Literary;Munn| Charles Clark;0.133;0.7809999999999999;0.086;3984;0.882308216257034;194;263;309;80.68;3
+The Star-Gazers;pg34244.epub;Literary;Fenn| George Manville;0.156;0.727;0.11699999999999999;7928;0.875873518877499;192;288;400;91.3;3
+Of High Descent;pg34246.epub;Literary;Fenn| George Manville;0.147;0.736;0.11699999999999999;11453;0.876389771760932;224;232;442;91.77;3
+The Man with a Shadow;pg34248.epub;Literary;Fenn| George Manville;0.145;0.732;0.12300000000000001;9537;0.870828728268074;189;285;427;92.28;3
+A Mysterious Disappearance;pg34277.epub;Detective and Mystery;Tracy| Louis;0.135;0.762;0.10300000000000001;6066;0.874932029556315;161;202;299;81.69;1
+Phases of an Inferior Planet;pg34402.epub;Literary;Glasgow| Ellen Anderson Gholson;0.13699999999999998;0.768;0.096;6701;0.855370393082058;150;286;328;81.28;3
+For the Allinson Honor;pg34415.epub;Literary;Bindloss| Harold;0.132;0.764;0.10400000000000001;6669;0.871182201070109;102;132;390;81.32;3
+Alas! A Novel;pg34428.epub;Literary;Broughton| Rhoda;0.127;0.764;0.109;7277;0.874204285639178;223;352;470;77.07;3
+The Rosery Folk;pg34482.epub;Literary;Fenn| George Manville;0.165;0.733;0.10099999999999999;4612;0.876598550082809;161;165;260;91.54;3
+The Gold Brick;pg34500.epub;Literary;Stephens| Ann S.;0.145;0.731;0.124;8276;0.877387974253403;187;309;338;79.55;3
+Paradise Bend;pg34567.epub;Western Stories;White| William Patterson;0.11599999999999999;0.79;0.094;9265;0.884278819394699;371;171;366;95.32;6
+The Triumph of Virginia Dale;pg34575.epub;Literary;Francis| John;0.16;0.727;0.114;7167;0.878027558299647;190;299;378;82.37;3
+Mrs. Halliburton's Troubles;pg34587.epub;Literary;Trevena| John;0.127;0.7879999999999999;0.085;2960;0.875677717728054;106;124;162;83.13;3
+Through Night to Light: A Novel;pg34598.epub;Literary;Spielhagen| Friedrich;0.16399999999999998;0.733;0.10300000000000001;10322;0.8700284026469309;434;279;401;74.84;3
+What the Swallow Sang: A Novel;pg34599.epub;Literary;Spielhagen| Friedrich;0.149;0.7559999999999999;0.095;2278;0.873296091199838;136;100;245;75.73;3
+King of the Castle;pg34609.epub;Literary;Fenn| George Manville;0.15;0.727;0.12300000000000001;9240;0.870440779302972;197;234;427;91.68;3
+Barren Honour: A Novel;pg34616.epub;Literary;Lawrence| George A.;0.16899999999999998;0.715;0.11599999999999999;4634;0.881633877688449;367;185;319;66.27;3
+The Gateless Barrier;pg34619.epub;Ghost and Horror;Malet| Lucas;0.171;0.737;0.092;3490;0.868898096167994;107;100;236;68.44;2
+I- Thou- and the Other One: A Love Story;pg34628.epub;Love and Romance;Barr| Amelia E.;0.165;0.743;0.092;5443;0.86571509052982;291;211;215;81.14;4
+The Mysterious Wanderer  Vol. II;pg34629.epub;Literary;Reeve| Sophia;0.155;0.737;0.10800000000000001;997;0.852381146045177;81;82;141;64.45;3
+The Breaking of the Storm- Vol. I.;pg34657.epub;Literary;Spielhagen| Friedrich;0.146;0.7709999999999999;0.083;3997;0.86993764594252;184;149;283;77.96;3
+The Breaking of the Storm- Vol. II.;pg34658.epub;Literary;Spielhagen| Friedrich;0.16399999999999998;0.743;0.09300000000000001;4126;0.870003238954612;225;167;292;76.55;3
+The Breaking of the Storm- Vol. III.;pg34659.epub;Literary;Spielhagen| Friedrich;0.132;0.7509999999999999;0.11699999999999999;4124;0.868548125817536;212;166;272;74.58;3
+Willing to Die: A Novel;pg34662.epub;Literary;Fanu| Joseph Sheridan Le;0.179;0.7490000000000001;0.073;219;0.857240302810564;27;18;26;77.08;3
+Commodore Junk;pg34663.epub;Literary;Fenn| George Manville;0.126;0.75;0.125;6921;0.868946472905939;175;147;370;90.6;3
+The Mynns' Mystery;pg34664.epub;Detective and Mystery;Fenn| George Manville;0.151;0.733;0.11599999999999999;5342;0.870667493468139;122;144;305;92.17;1
+The Man with the Double Heart;pg34709.epub;Literary;Hine| Muriel;0.168;0.7340000000000001;0.098;8567;0.872487990765011;282;294;348;83.96;3
+One of My Sons;pg34710.epub;Detective and Mystery;Green| Anna Katharine;0.126;0.7609999999999999;0.113;5361;0.867014278777999;104;229;377;77.87;1
+The Ivory Gate- a new edition;pg34738.epub;Literary;Besant| Walter;0.16399999999999998;0.76;0.076;4027;0.877887224251392;109;110;211;81.69;3
+Problematic Characters: A Novel;pg34748.epub;Literary;Spielhagen| Friedrich;0.175;0.733;0.091;10601;0.8734846607848059;395;273;430;77.68;3
+Englefield Grange- Mary Armstrong's Troubles;pg34794.epub;Literary;Paull| Mrs. H. B.;0.163;0.7559999999999999;0.081;5025;0.870697193894301;261;270;356;75.83;3
+The Pagan's Cup;pg34835.epub;Detective and Mystery;Abbott| Eleanor Hallowell;0.14400000000000002;0.747;0.10800000000000001;6203;0.864745251901946;136;192;284;91.93;0
+The Rival Crusoes- The Ship Wreck - Also A Voyage to Norway  and The Fisherman's Cottage.;pg34849.epub;Literary;Strickland| Agnes;0.14;0.725;0.134;1302;0.855608611074016;88;26;261;68.68;3
+Mystery and Confidence: A Tale. Vol. 1;pg34932.epub;Literary;Pinchard| Elizabeth Sibthorpe;0.184;0.738;0.077;985;0.876374737916502;76;125;165;72.58;3
+Mystery and Confidence: A Tale. Vol. 3;pg34933.epub;Literary;Pinchard| Elizabeth Sibthorpe;0.168;0.718;0.114;899;0.873295844634323;72;137;135;72.16;3
+Â£19-000;pg34934.epub;Detective and Mystery;Delannoy| Burford;0.113;0.79;0.09699999999999999;4502;0.852206392312964;89;88;281;90.89;0
+The House of Strange Secrets: A Detective Story;pg34947.epub;Detective and Mystery;Bayly| A. Eric;0.10400000000000001;0.782;0.115;2892;0.857667875561052;92;78;265;76.57;0
+Mystery and Confidence: A Tale. Vol. 2;pg34968.epub;Literary;Pinchard| Elizabeth Sibthorpe;0.165;0.72;0.114;987;0.874036865957577;70;187;132;75.74;3
+The Count of Nideck - adapted from the French of Erckmann-Chartrian;pg34999.epub;Literary;Erckmann-Chatrian| | Fiske| Ralph Browning;0.128;0.777;0.095;2407;0.858847694055368;91;93;156;78.66;3
+The House in the Mist;pg35003.epub;Detective and Mystery;Green| Anna Katharine;0.131;0.76;0.109;1271;0.867562137850928;60;103;113;76.0;0
+The Carleton Case;pg35038.epub;Literary;Clark| Ellery H.;0.159;0.748;0.09300000000000001;4188;0.869394118313328;128;85;336;83.04;3
+Dilemmas of Pride- (Vol 2 of 3);pg35057.epub;Literary;Loudon| Mrs.;0.13699999999999998;0.748;0.114;1140;0.86959593081501;59;96;191;61.21;3
+Dilemmas of Pride- (Vol 3 of 3);pg35058.epub;Literary;Loudon| Mrs.;0.134;0.736;0.131;859;0.85281687752839;46;82;132;53.35;3
+Girl Alone;pg35077.epub;Literary;Austin| Anne;0.158;0.7390000000000001;0.10300000000000001;5590;0.879520766367873;245;370;244;81.61;3
+The Mesa Trail;pg35078.epub;Western Stories;Bedford-Jones| H.;0.10800000000000001;0.787;0.105;4302;0.881231943440105;143;91;283;82.7;6
+The Blind Mother- and The Last Confession;pg35140.epub;Literary;Caine| Sir Hall;0.127;0.7509999999999999;0.122;2116;0.852925482076003;90;53;117;81.75;3
+The Solitary Farm;pg35146.epub;Detective and Mystery;Hume| Fergus;0.124;0.747;0.129;6488;0.871802418138344;176;298;335;81.33;0
+In the Van- The Builders;pg35203.epub;Literary;Price-Brown| John;0.146;0.777;0.077;5377;0.871529904334028;233;208;242;81.25;3
+Who?;pg35205.epub;Detective and Mystery;Kent| Elizabeth;0.132;0.748;0.12;5111;0.870950098637163;98;216;297;83.12;0
+The Guerilla Chief- and Other Tales;pg35214.epub;Literary;Reid| Mayne;0.11800000000000001;0.785;0.096;4855;0.857325886506048;309;86;164;77.96;3
+The Oyster;pg35217.epub;Literary;Peer|;0.16;0.736;0.10300000000000001;6737;0.890578427780744;385;250;207;84.89;3
+The Streets of Ascalon - Episodes in the Unfinished Career of Richard Quarren- Esqre.;pg35233.epub;Literary;Chambers| Robert W.;0.16;0.743;0.09699999999999999;8098;0.880393104305205;253;324;370;83.98;3
+In the Onyx Lobby;pg35254.epub;Detective and Mystery;Wells| Carolyn;0.133;0.7440000000000001;0.12300000000000001;4859;0.8756200373016;159;172;227;84.52;0
+A Wife's Duty: A Tale;pg35294.epub;Literary;Opie| Amelia;0.171;0.716;0.113;2365;0.8555955327916109;122;176;284;78.16;3
+Sir Brook Fossbrooke- Volume I.;pg35296.epub;Literary;Lever| Charles James;0.157;0.755;0.087;6966;0.868411519918497;287;242;571;80.08;3
+Sir Brook Fossbrooke- Volume II.;pg35297.epub;Literary;Lever| Charles James;0.14;0.755;0.105;4859;0.867274170881365;195;174;445;80.03;3
+The Last Stroke: A Detective Story;pg35304.epub;Detective and Mystery;Lynch| Lawrence L.;0.122;0.7909999999999999;0.08800000000000001;4026;0.865771582132353;152;136;292;78.97;0
+A Practical Novelist;pg35313.epub;Literary;Davidson| John;0.147;0.755;0.098;1944;0.874301671614451;83;87;137;81.69;3
+The Long Lane's Turning;pg35326.epub;Literary;Rives| Hallie Erminie;0.11599999999999999;0.778;0.106;5955;0.860297839464776;227;167;371;79.52;3
+The Lady Evelyn: A Story of To-day;pg35336.epub;Literary;Pemberton| Max;0.146;0.7559999999999999;0.098;4376;0.864705830941217;205;221;275;77.77;3
+A Song of a Single Note: A Love Story;pg35358.epub;Love and Romance;Barr| Amelia E.;0.16399999999999998;0.733;0.10300000000000001;5574;0.869218363855308;314;235;291;81.39;4
+The Wicked Marquis;pg35361.epub;Detective and Mystery;Oppenheim| E. Phillips;0.141;0.785;0.07400000000000001;6341;0.873524538149516;139;172;264;82.2;0
+Mad: A Story of Dust and Ashes;pg35367.epub;Literary;Fenn| George Manville;0.111;0.773;0.11599999999999999;5147;0.868389694847277;263;270;524;75.62;3
+Friends I Have Made;pg35368.epub;Literary;Fenn| George Manville;0.14300000000000002;0.74;0.11699999999999999;2432;0.864208748201071;159;131;191;87.9;3
+Mrs. Geoffrey;pg35384.epub;Literary;Duchess| ;0.17300000000000001;0.718;0.109;7962;0.879256082816557;265;349;368;81.49;3
+The Amethyst Box;pg35424.epub;Detective and Mystery;Green| Anna Katharine;0.135;0.757;0.10800000000000001;2764;0.865867395822438;85;182;181;77.32;0
+A Charming Fellow- Volume I;pg35428.epub;Literary;Trollope| Frances Eleanor;0.16899999999999998;0.7490000000000001;0.08199999999999999;3669;0.877840055185569;175;171;217;79.44;3
+A Charming Fellow- Volume II;pg35429.epub;Literary;Trollope| Frances Eleanor;0.159;0.7490000000000001;0.092;3452;0.876397136504518;174;175;174;79.17;3
+A Charming Fellow- Volume III;pg35430.epub;Literary;Trollope| Frances Eleanor;0.138;0.748;0.114;4191;0.873332684865394;142;206;248;79.73;3
+The Dodd Family Abroad- Vol. I;pg35441.epub;Literary;Lever| Charles James;0.14;0.779;0.081;765;0.868816096019788;169;35;110;76.0;3
+The Dodd Family Abroad- Vol. II;pg35442.epub;Literary;Lever| Charles James;0.151;0.76;0.09;4052;0.866082179048694;376;182;308;75.34;3
+Lost Lenore: The Adventures of a Rolling Stone;pg35443.epub;Sea and Adventure;Reid| Mayne;0.126;0.7709999999999999;0.10300000000000001;6904;0.854862483469364;198;150;248;73.89;5
+Sharing Her Crime: A Novel;pg35462.epub;Detective and Mystery;Fleming| May Agnes;0.159;0.71;0.131;7825;0.881897513339583;268;329;314;82.2;0
+The Black Eagle Mystery;pg35484.epub;Detective and Mystery;Bonner| Geraldine;0.10800000000000001;0.8;0.092;4227;0.857521377835748;123;184;263;90.15;0
+The Golden Road;pg35509.epub;Literary;Allen| Frank Waller;0.17;0.755;0.075;2053;0.870692744408036;115;128;250;78.89;3
+The Three Impostors- The Transmutations;pg35517.epub;Ghost and Horror;Machen| Arthur;0.11699999999999999;0.778;0.106;2375;0.843976022739334;133;17;181;76.3;1
+Only One Love- Who Was the Heir;pg35523.epub;Literary;Garvice| Charles;0.161;0.737;0.102;8415;0.870525787762152;215;245;372;92.23;3
+The Haute Noblesse: A Novel;pg35527.epub;Literary;Fenn| George Manville;0.147;0.737;0.11599999999999999;11540;0.876370815391651;230;237;443;91.77;3
+"The Secret of the Sands- The ""Water Lily"" and her Crew";pg35528.epub;Sea and Adventure;Collingwood| Harry;0.128;0.8;0.07200000000000001;3181;0.856631857446643;106;168;231;72.23;5
+The Haunted Room: A Tale;pg35533.epub;Literary;E.| A. L. O.;0.128;0.742;0.13;3419;0.871261989084019;112;154;202;75.17;3
+Doctor Cupid: A Novel;pg35548.epub;Literary;Broughton| Rhoda;0.135;0.76;0.10400000000000001;7318;0.874631299501268;196;417;360;78.83;3
+The Funny Philosophers- or Wags and Sweethearts.  A Novel;pg35599.epub;Literary;Yellott| George;0.133;0.7709999999999999;0.096;6783;0.853576652481808;255;66;310;68.02;3
+Mysterious Mr. Sabin;pg35661.epub;Detective and Mystery;Oppenheim| E. Phillips;0.146;0.769;0.085;8806;0.870038830091706;150;149;338;82.49;0
+Titan: A Romance. v. 1 (of 2);pg35664.epub;Literary;Paul| Jean;0.165;0.757;0.077;3751;0.8619135702724241;315;227;433;67.89;3
+The Late Tenant;pg35691.epub;Literary;Tracy| Louis;0.121;0.7759999999999999;0.10300000000000001;4573;0.870028925050023;123;209;295;81.54;3
+The Game and the Candle;pg35740.epub;Literary;Ingram| Eleanor M.;0.156;0.741;0.10400000000000001;3695;0.874262981150005;87;82;266;80.76;3
+Lily Pearl and The Mistress of Rosedale;pg35765.epub;Literary;Glenwood| Ida;0.16399999999999998;0.732;0.105;6812;0.8727027546847;233;373;215;79.27;3
+Dilemmas of Pride- (Vol 1 of 3);pg35769.epub;Literary;Loudon| Mrs;0.161;0.7509999999999999;0.08800000000000001;1234;0.872904106206799;87;111;141;60.7;3
+The Hills of Refuge: A Novel;pg35785.epub;Literary;Harben| Will N.;0.129;0.777;0.094;8994;0.864477840655322;154;260;426;92.37;3
+Plain Mary Smith: A Romance of Red Saunders;pg35787.epub;Humorous and Wit and Satire;Phillips| Henry Wallace;0.158;0.733;0.109;3834;0.868133846875085;172;131;248;92.82;2
+The Black Star: A Detective Story;pg35833.epub;Detective and Mystery;McCulley| Johnston;0.094;0.825;0.081;3629;0.850092577388043;29;26;236;80.94;0
+Final Proof- The Value of Evidence;pg35902.epub;Detective and Mystery;Ottolengui| Rodrigues;0.114;0.789;0.096;6663;0.8617391531492159;179;181;353;79.77;0
+The Finger of Fate: A Romance;pg35912.epub;Literary;Reid| Mayne;0.114;0.7929999999999999;0.09300000000000001;5786;0.860409128960837;194;96;270;76.63;3
+The Child Wife;pg35913.epub;Literary;Reid| Mayne;0.131;0.784;0.085;8888;0.868005374870621;332;150;352;80.03;3
+Silent Struggles;pg36027.epub;Literary;Stephens| Ann S.;0.152;0.722;0.126;6964;0.871555234398605;152;312;247;76.81;3
+A Speckled Bird;pg36029.epub;Literary;Evans| Augusta J.;0.151;0.7390000000000001;0.11;5944;0.876914079319737;342;387;314;76.96;3
+Hesperus- Forty-Five Dog-Post-Days: A Biography. Vol. I.;pg36071.epub;Literary;Paul| Jean;0.157;0.764;0.078;2830;0.865849826311001;314;106;420;68.08;3
+Hesperus- Forty-Five Dog-Post-Days: A Biography. Vol. II.;pg36087.epub;Literary;Paul| Jean;0.158;0.746;0.096;2688;0.865252150999064;344;96;325;69.49;3
+The Letter of Credit;pg36159.epub;Love and Romance;Warner| Susan;0.155;0.762;0.083;13847;0.8683232049471759;216;403;260;92.17;4
+Bijou;pg36199.epub;Literary;Gyp| ;0.168;0.754;0.078;4608;0.874457902754463;161;161;194;83.39;3
+The Shooting of Dan McGrew- A Novel. Based on the Famous Poem of Robert Service;pg36232.epub;Literary;Dana| Marvin| Service| Robert W.;0.129;0.752;0.11800000000000001;3361;0.847682745379952;70;123;260;78.05;3
+The Red Mouse: A Mystery Romance;pg36247.epub;Detective and Mystery;Osborne| William Hamilton;0.13699999999999998;0.7709999999999999;0.092;4921;0.871957904693292;278;237;327;82.36;0
+The Invisible Lodge;pg36353.epub;Literary;Paul| Jean;0.145;0.767;0.08800000000000001;3332;0.86959548978564;340;172;366;67.97;3
+Faithful Margaret: A Novel;pg36360.epub;Literary;Simpson| Mrs. J. M.;0.16699999999999998;0.7090000000000001;0.124;6151;0.874043208689436;265;399;384;78.94;3
+Zoe- Some Day: A Novel;pg36364.epub;Literary;Leonard| May;0.185;0.7140000000000001;0.10099999999999999;2190;0.88668061150373;119;166;128;80.47;3
+Dangerous Ground- The Rival Detectives;pg36366.epub;Detective and Mystery;Lynch| Lawrence L.;0.126;0.763;0.11199999999999999;7451;0.879377215099276;206;288;477;81.99;0
+Wives and Widows- The Broken Life;pg36374.epub;Literary;Stephens| Ann S.;0.16399999999999998;0.7170000000000001;0.11900000000000001;7517;0.873958179611247;93;321;228;81.02;3
+The Turn of the Tide: The Story of How Margaret Solved Her Problem;pg36401.epub;Literary;Porter| Eleanor H.;0.142;0.768;0.09;3689;0.873018734537894;138;264;173;83.44;3
+Titan: A Romance. v. 2 (of 2);pg36403.epub;Literary;Paul| Jean;0.163;0.7390000000000001;0.098;5258;0.867840254153307;350;298;495;73.5;3
+Jessamine: A Novel;pg36414.epub;Literary;Harland| Marion;0.18;0.7290000000000001;0.091;5954;0.867079166598526;211;335;314;68.12;3
+The Story of an Untold Love;pg36439.epub;Literary;Ford| Paul Leicester;0.166;0.737;0.09699999999999999;2658;0.859304981603608;77;116;188;79.34;3
+A Butterfly on the Wheel: A Novel;pg36467.epub;Literary;Hemmerde| Edward G.| Neilson| Francis| Thorne| Guy;0.145;0.7490000000000001;0.106;4597;0.875938815689043;102;126;131;83.81;3
+The Red Derelict;pg36588.epub;Sea and Adventure;Mitford| Bertram;0.134;0.763;0.102;6588;0.872278525637619;122;194;385;81.09;5
+Fordham's Feud;pg36593.epub;Literary;Mitford| Bertram;0.142;0.7559999999999999;0.102;6398;0.875822483071271;208;199;313;79.85;3
+The Haunted Homestead: A Novel;pg36713.epub;Literary;Southworth| Emma Dorothy Eliza Nevitte;0.142;0.752;0.106;3925;0.869611745144969;243;178;224;76.56;3
+One Maid's Mischief;pg36723.epub;Literary;Fenn| George Manville;0.159;0.723;0.11699999999999999;11160;0.872935344458504;257;403;410;81.44;3
+Cynthia Wakeham's Money;pg36758.epub;Detective and Mystery;Green| Anna Katharine;0.14300000000000002;0.754;0.10400000000000001;4653;0.8676270210286;93;274;387;79.89;0
+Midnight Webs;pg36875.epub;Literary;Fenn| George Manville;0.12;0.765;0.114;4224;0.866919831580432;256;180;403;85.0;3
+In Strange Company: A Story of Chili and the Southern Seas;pg37081.epub;Sea and Adventure;Boothby| Guy;0.124;0.779;0.09699999999999999;3047;0.865156645728311;119;147;272;78.31;5
+A Life For a Love: A Novel;pg37107.epub;Literary;Meade| L. T.;0.184;0.726;0.09;7719;0.875423242028006;235;258;316;84.94;3
+The Ranchman;pg37204.epub;Western Stories;Seltzer| Charles Alden;0.11;0.787;0.10300000000000001;4114;0.8508768148002459;133;214;350;78.61;6
+The Wayfarers;pg37208.epub;Literary;Cutting| Mary Stewart;0.145;0.7709999999999999;0.085;5601;0.872034303916763;128;293;301;79.47;3
+The Crime Doctor;pg37338.epub;Detective and Mystery;Hornung| E. W.;0.122;0.775;0.10300000000000001;3767;0.868166244703377;121;100;281;80.92;0
+Pray You- Sir- Whose Daughter?;pg37355.epub;Literary;Gardener| Helen H.;0.151;0.7340000000000001;0.115;2180;0.868238721944512;79;151;170;81.46;3
+The Empty Sack;pg37412.epub;Literary;King| Basil;0.129;0.7909999999999999;0.08;7025;0.8670828478349281;188;277;362;81.35;3
+The Sin of Monsieur Pettipon- and other humorous tales;pg37430.epub;Humorous and Wit and Satire;Connell| Richard Edward;0.12300000000000001;0.7909999999999999;0.086;5322;0.881063510437726;341;100;401;83.32;2
+Rough-Hewn;pg37451.epub;Literary;Fisher| Dorothy Canfield;0.128;0.799;0.073;353;0.869174200296914;44;15;65;74.07;3
+Daisy Thornton;pg37467.epub;Literary;Holmes| Mary Jane;0.156;0.7490000000000001;0.094;1125;0.854385808001038;83;175;143;86.4;3
+Jessie Graham;pg37476.epub;Literary;Holmes| Mary Jane;0.146;0.763;0.092;1994;0.865976431171065;103;255;291;77.73;3
+The Debit Account;pg37479.epub;Literary;Onions| Oliver;0.11800000000000001;0.805;0.077;3556;0.865064742517385;150;236;105;81.41;3
+The Gray Phantom's Return;pg37490.epub;Detective and Mystery;Landon| Herman;0.105;0.78;0.115;5472;0.846376640162478;85;92;393;78.02;0
+The Sins of the Children: A Novel;pg37664.epub;Literary;Hamilton| Cosmo;0.168;0.759;0.073;6229;0.867704180223134;199;196;290;80.0;3
+Mavis of Green Hill;pg37710.epub;Love and Romance;Baldwin| Faith;0.177;0.74;0.083;5445;0.870972523168952;197;106;213;83.58;4
+Notwithstanding;pg37781.epub;Literary;Cholmondeley| Mary;0.11599999999999999;0.774;0.11;5770;0.870284279839867;245;225;201;80.43;3
+The Open Question: A Tale of Two Temperaments;pg37827.epub;Literary;Robins| Elizabeth;0.15;0.747;0.10300000000000001;12210;0.878724067270964;498;402;382;82.7;3
+The Story of Louie;pg37838.epub;Literary;Onions| Oliver;0.124;0.7759999999999999;0.1;182;0.863710277724269;28;27;26;80.84;3
+A Humble Enterprise;pg37866.epub;Literary;Cambridge| Ada;0.166;0.772;0.062;2892;0.869471977608536;150;187;174;80.67;3
+The Gray Phantom;pg37913.epub;Detective and Mystery;Landon| Herman;0.113;0.7759999999999999;0.111;4464;0.858356252892903;62;174;301;77.85;0
+In Accordance with the Evidence;pg37919.epub;Literary;Onions| Oliver;0.11199999999999999;0.797;0.09;3572;0.859955614632259;104;145;162;81.84;3
+The Heatherford Fortune - a sequel to the Magic Cameo;pg38006.epub;Literary;Sheldon| Mrs. Georgie;0.17300000000000001;0.737;0.09;2680;0.867470115893533;93;282;279;76.22;3
+The Sailor;pg38186.epub;Literary;Snaith| J. C.;0.129;0.779;0.092;8947;0.852104648090252;398;169;417;79.81;3
+Kenneth McAlpine: A Tale of Mountain- Moorland and Sea;pg38199.epub;Literary;Stables| Gordon;0.14;0.774;0.087;3573;0.870558801583338;184;64;218;89.61;3
+The Making of William Edwards- The Story of the Bridge of Beauty;pg38212.epub;Literary;Banks| Mrs. G. Linnaeus;0.13;0.7809999999999999;0.08900000000000001;3335;0.867562805004868;163;144;295;74.99;3
+Simon the Jester;pg3828.epub;Humorous and Wit and Satire;Locke| William John;0.16;0.736;0.10400000000000001;7536;0.859001282344842;279;222;283;82.51;2
+A Witch of the Hills- v. 1 [of 2];pg38291.epub;Literary;Warden| Florence;0.16699999999999998;0.737;0.096;1856;0.864320319158353;91;132;125;75.93;3
+A Witch of the Hills- v. 2 [of 2];pg38292.epub;Literary;Warden| Florence;0.158;0.7340000000000001;0.10800000000000001;1866;0.861749986737622;75;170;120;76.65;3
+The Happy Warrior;pg38325.epub;Literary;Hutchinson| A. S. M.;0.149;0.758;0.09300000000000001;6034;0.874573256873397;231;265;356;81.35;3
+A Knight on Wheels;pg38368.epub;Literary;Hay| Ian;0.141;0.778;0.08;7088;0.879499511283674;309;166;296;72.24;3
+Loaded Dice;pg38474.epub;Literary;Clark| Ellery H.;0.161;0.7440000000000001;0.095;4486;0.868064729678042;162;139;357;81.28;3
+Gargoyles;pg38489.epub;Literary;Hecht| Ben;0.165;0.7190000000000001;0.11599999999999999;8215;0.865748895373093;133;204;307;73.49;3
+The Story of Charles Strange: A Novel. Vol. 1 (of 3);pg38623.epub;Literary;Wood| Mrs. Henry;0.125;0.789;0.087;3937;0.875587569848775;122;180;194;83.56;3
+The Story of Charles Strange: A Novel. Vol. 2 (of 3);pg38624.epub;Literary;Wood| Mrs. Henry;0.102;0.79;0.10800000000000001;3734;0.867835574402063;138;195;178;92.03;3
+The Story of Charles Strange: A Novel. Vol. 3 (of 3);pg38625.epub;Literary;Wood| Mrs. Henry;0.12300000000000001;0.7929999999999999;0.084;162;0.867554138137571;17;3;25;85.4;3
+Miranda of the Balcony: A Story;pg38679.epub;Literary;Mason| A. E. W.;0.11;0.8029999999999999;0.08800000000000001;5286;0.854985843836799;143;207;360;80.18;3
+The Truants;pg38685.epub;Literary;Mason| A. E. W.;0.0;0.0;0.0;0;0.0;0;0;0;206.84;3
+The Turnstile;pg38689.epub;Literary;Mason| A. E. W.;0.135;0.777;0.08800000000000001;8180;0.858434420385995;171;264;330;81.26;3
+The Maker of Opportunities;pg38702.epub;Literary;Gibbs| George;0.14800000000000002;0.765;0.087;3343;0.869992862141721;143;154;192;83.04;3
+A Singular Metamorphosis;pg38715.epub;Literary;Skiles| May Evelyn;0.151;0.7559999999999999;0.09300000000000001;823;0.868552650685322;29;75;81;68.37;3
+The Monctons: A Novel. Volume 2 (of 2);pg38798.epub;Literary;Moodie| Susanna;0.177;0.675;0.14800000000000002;3183;0.863464081060373;148;143;146;78.8;3
+Out of a Labyrinth;pg38888.epub;Detective and Mystery;Lynch| Lawrence L.;0.13;0.7879999999999999;0.08199999999999999;5098;0.87201469457682;210;149;261;79.52;0
+Mr. Marx's Secret;pg39018.epub;Detective and Mystery;Oppenheim| E. Phillips;0.127;0.778;0.095;5492;0.866837597127007;152;102;259;81.68;0
+The White Blackbird;pg39066.epub;Literary;Aitken| Robert;0.111;0.7859999999999999;0.10300000000000001;5812;0.876600499821828;139;212;408;78.54;3
+Miser Farebrother: A Novel (vol. 1 of 3);pg39111.epub;Literary;Farjeon| B. L.;0.184;0.7340000000000001;0.08199999999999999;3481;0.870094088709482;77;138;217;83.2;3
+It May Be True- Vol. 2 (of 3);pg39192.epub;Literary;Wood| Mrs. Henry;0.155;0.711;0.134;2903;0.877545603908123;124;309;238;89.78;3
+It May Be True- Vol. 3 (of 3);pg39193.epub;Literary;Wood| Mrs. Henry;0.151;0.6990000000000001;0.15;3276;0.877131970165671;110;299;220;90.59;3
+Tales for Fifteen;pg39207.epub;Literary;Cooper| James Fenimore;0.18899999999999997;0.72;0.091;1649;0.86337167510512;100;134;157;66.92;3
+Mitchelhurst Place: A Novel. Vol. 1 (of 2);pg39345.epub;Literary;Veley| Margaret;0.142;0.759;0.1;2769;0.871216606589111;127;157;211;80.7;3
+Wyndham's Pal;pg39349.epub;Literary;Bindloss| Harold;0.11900000000000001;0.7859999999999999;0.095;6171;0.862732680149619;118;105;315;82.46;3
+Mabel: A Novel. Vol. 3 (of 3);pg39359.epub;Literary;Newby| Mrs. C. J.;0.17300000000000001;0.721;0.107;1464;0.873609935451613;67;242;154;76.01;3
+Mildred Arkell: A Novel. Vol. 2 (of 3);pg39377.epub;Literary;Wood| Mrs. Henry;0.109;0.805;0.087;4815;0.86914181869091;191;150;302;81.66;3
+A Gamble with Life;pg39417.epub;Detective and Mystery;Hocking| Silas K.;0.17;0.735;0.095;8816;0.871409966736573;484;235;393;80.93;0
+The Mysterious Wanderer- Vol. III - A Novel in Three Volumes;pg39425.epub;Literary;Reeve| Sophia;0.154;0.738;0.10800000000000001;1118;0.859585485348;74;108;162;66.73;3
+Guy and Pauline;pg39556.epub;Literary;MacKenzie| Compton;0.152;0.76;0.08800000000000001;6314;0.871812825605759;246;288;382;79.38;3
+In the Hands of the Malays- and Other Stories;pg39616.epub;Sea and Adventure;Henty| G. A.;0.11;0.8;0.09;1780;0.855172943920335;65;50;136;75.53;5
+Sylvia & Michael: The later adventures of Sylvia Scarlett;pg39660.epub;Literary;MacKenzie| Compton;0.127;0.755;0.11800000000000001;5899;0.870185777163703;275;280;229;78.2;3
+Mildred Arkell: A Novel. Vol. 1 (of 3);pg39692.epub;Literary;Wood| Mrs. Henry;0.127;0.7879999999999999;0.084;4656;0.870105304052527;195;225;224;82.37;3
+Mildred Arkell: A Novel. Vol. 3 (of 3);pg39693.epub;Literary;Wood| Mrs. Henry;0.107;0.787;0.105;4997;0.866540613158299;196;163;297;82.24;3
+The Marriage of Esther;pg39731.epub;Literary;Boothby| Guy;0.14;0.754;0.106;4300;0.860540823602745;66;89;265;82.37;3
+Vassall Morton: A Novel;pg39768.epub;Literary;Parkman| Francis;0.14;0.752;0.10800000000000001;5803;0.867936721486743;235;119;339;77.72;3
+A Sovereign Remedy;pg39813.epub;Literary;Steel| Flora Annie Webster;0.14300000000000002;0.764;0.094;7475;0.87838819346071;301;271;316;82.18;3
+Upsidonia;pg39905.epub;Humorous and Wit and Satire;Marshall| Archibald;0.153;0.7659999999999999;0.08199999999999999;3139;0.863473016439115;109;66;159;78.81;2
+Ashton-Kirk- Secret Agent;pg39940.epub;Detective and Mystery;McIntyre| John Thomas;0.11800000000000001;0.813;0.069;4596;0.857809568508711;85;116;372;80.55;0
+In Silk Attire: A Novel;pg40111.epub;Literary;Black| William;0.156;0.755;0.08900000000000001;1786;0.8670976828947379;142;132;156;77.46;3
+Fashion and Famine;pg40114.epub;Literary;Stephens| Ann S.;0.162;0.723;0.115;7990;0.874766629470008;149;326;315;78.63;3
+A Woman's Love;pg40180.epub;Literary;Opie| Amelia;0.168;0.7120000000000001;0.12;1231;0.860339192324399;48;141;169;76.8;3
+Mabel: A Novel. Vol. 2 (of 3);pg40199.epub;Literary;Newby| Mrs. C. J.;0.177;0.715;0.10800000000000001;1655;0.872947895366872;58;235;197;74.67;3
+The Threatening Eye;pg40278.epub;Literary;Knight| E. F.;0.172;0.698;0.13;6694;0.872502237744237;234;371;217;79.98;3
+True to a Type- Vol. 1 (of 2);pg40324.epub;Literary;Cleland| Robert;0.152;0.768;0.08;2800;0.871161941238568;116;167;156;79.05;3
+True to a Type- Vol. 2 (of 2);pg40325.epub;Literary;Cleland| Robert;0.15;0.76;0.091;2748;0.869986290923757;100;176;131;80.67;3
+The Coward Behind the Curtain;pg40347.epub;Literary;Marsh| Richard;0.111;0.8029999999999999;0.086;4417;0.861124934862035;112;302;295;89.86;3
+The Crime and the Criminal;pg40348.epub;Detective and Mystery;Marsh| Richard;0.11699999999999999;0.79;0.09300000000000001;9530;0.853942280182283;202;142;330;91.38;0
+It May Be True- Vol. 1 (of 3);pg40418.epub;Literary;Wood| Mrs. Henry;0.155;0.731;0.114;2683;0.8775525451638501;133;325;204;81.26;3
+Miss Hildreth: A Novel- Volume 1;pg40431.epub;Literary;Stevens| Augusta de Grasse;0.17;0.718;0.111;1601;0.875504153622937;160;147;155;74.89;3
+Miss Hildreth: A Novel- Volume 2;pg40432.epub;Literary;Stevens| Augusta de Grasse;0.152;0.738;0.11;1760;0.874567084658397;146;156;179;66.26;3
+Miss Hildreth: A Novel- Volume 3;pg40433.epub;Literary;Stevens| Augusta de Grasse;0.13699999999999998;0.7390000000000001;0.124;1734;0.867109996154904;100;152;161;65.35;3
+Violet Forster's Lover;pg40450.epub;Literary;Marsh| Richard;0.113;0.805;0.08199999999999999;5070;0.857246694293385;89;212;261;90.77;3
+Under One Flag;pg40451.epub;Literary;Marsh| Richard;0.121;0.8029999999999999;0.076;6530;0.86036847087299;224;176;278;81.28;3
+The Twickenham Peerage;pg40452.epub;Literary;Marsh| Richard;0.11199999999999999;0.794;0.094;3313;0.858615877645213;80;49;202;82.7;3
+The Garden of Survival;pg4046.epub;Ghost and Horror;Blackwood| Algernon;0.192;0.7090000000000001;0.098;1040;0.859643287575464;18;84;4;68.7;1
+Black Star's Campaign: A Detective Story;pg40484.epub;Detective and Mystery;McCulley| Johnston;0.094;0.826;0.079;2303;0.84562295234963;19;23;165;80.34;0
+The Red Lottery Ticket;pg40491.epub;Detective and Mystery;Boisgobey| Fortunu;0.131;0.757;0.11199999999999999;3265;0.865722396735968;97;121;240;80.12;0
+The King of Diamonds: A Tale of Mystery and Adventure;pg40493.epub;Detective and Mystery;Tracy| Louis;0.13699999999999998;0.767;0.096;6143;0.869034853642583;173;68;422;80.69;0
+The Ordeal of Elizabeth;pg40495.epub;Literary;Anonymous;0.161;0.741;0.099;2606;0.872667950531661;76;200;145;81.85;3
+The Splendid Fairing;pg40545.epub;Literary;Holme| Constance;0.141;0.765;0.094;3931;0.871925685114677;152;214;204;89.44;3
+Moth and Rust  Together with Geoffrey's Wife and The Pitfall;pg40566.epub;Literary;Cholmondeley| Mary;0.14;0.7609999999999999;0.099;4067;0.87425450990381;202;206;142;82.37;3
+Prince Charlie;pg40611.epub;Literary;Delannoy| Burford;0.162;0.722;0.11599999999999999;4983;0.867100954114778;101;191;261;83.39;3
+The Hypocrite;pg40651.epub;Literary;Thorne| Guy;0.166;0.7490000000000001;0.084;2123;0.864621127687742;171;37;151;80.28;3
+The White Virgin;pg40672.epub;Literary;Fenn| George Manville;0.17;0.722;0.109;2314;0.871954681184226;70;86;156;91.91;3
+The Tiger Lily;pg40673.epub;Literary;Fenn| George Manville;0.179;0.711;0.11;4362;0.8705056303293639;143;192;239;92.02;3
+Sawn Off: A Tale of a Family Tree;pg40674.epub;Literary;Fenn| George Manville;0.13;0.721;0.149;4635;0.875722218589811;137;121;262;93.62;3
+Gretchen: A Novel;pg40702.epub;Literary;Holmes| Mary Jane;0.12300000000000001;0.792;0.085;7165;0.858346452867667;291;466;487;85.48;3
+Fighting Byng: A Novel of Mystery- Intrigue and Adventure;pg40821.epub;Detective and Mystery;Stone| A.;0.134;0.7759999999999999;0.08900000000000001;3569;0.871732709011789;89;111;211;81.05;0
+The Adventures of Peregrine Pickle;pg4084.epub;Literary;Smollett| T.;0.157;0.74;0.102;6646;0.84369601928163;431;319;904;33.53;3
+Meg- of Valencia;pg40926.epub;Literary;Jarrell| Myra Williams;0.168;0.741;0.09;1157;0.869756332608352;48;132;126;81.23;3
+The Day of Temptation;pg40998.epub;Literary;Queux| William Le;0.153;0.732;0.115;5158;0.878056417803059;177;239;258;71.59;3
+Stolen Souls;pg40999.epub;Literary;Queux| William Le;0.134;0.746;0.12;3874;0.862870304379362;274;194;183;70.78;3
+The Sign of the Stranger;pg41089.epub;Detective and Mystery;Queux| William Le;0.13699999999999998;0.7440000000000001;0.11900000000000001;4646;0.861804903254779;207;227;207;79.35;0
+Rayton: A Backwoods Mystery;pg41122.epub;Literary;Roberts| Theodore Goodridge;0.11699999999999999;0.753;0.13;5399;0.865467210964079;139;61;330;92.46;3
+Jenifer's Prayer;pg41191.epub;Literary;Crane| Oliver;0.17300000000000001;0.74;0.087;1770;0.865324482242328;81;112;109;79.22;3
+The Eve of All-Hallows- Adelaide of Tyrconnel- v. 1 of 3;pg41212.epub;Literary;Hartstonge| Matthew Weld;0.175;0.753;0.07200000000000001;1304;0.856421065855477;276;55;118;59.13;3
+Ten Thousand a-Year. Volume 3.;pg41247.epub;Literary;Warren| Samuel;0.14;0.7609999999999999;0.098;6229;0.868929625856887;376;127;493;62.8;3
+The Arm-Chair at the Inn;pg41284.epub;Literary;Smith| Francis Hopkinson;0.121;0.792;0.087;1214;0.869890771008414;88;50;134;76.31;3
+My Danish Sweetheart: A Novel. Volume 1 of 3;pg41313.epub;Sea and Adventure;Russell| William Clark;0.1;0.802;0.099;2176;0.842285437757183;74;142;140;84.21;5
+My Danish Sweetheart: A Novel. Volume 2 of 3;pg41314.epub;Sea and Adventure;Russell| William Clark;0.114;0.805;0.081;2949;0.86189977991336;103;127;244;79.52;5
+My Danish Sweetheart: A Novel. Volume 3 of 3;pg41315.epub;Sea and Adventure;Russell| William Clark;0.107;0.794;0.099;2596;0.858785511027911;78;86;175;79.01;5
+Mrs. Dorriman: A Novel. Volume 1 of 3;pg41329.epub;Literary;Chetwynd| Mrs. Henry Wayland;0.161;0.725;0.114;2567;0.864844871983717;54;226;201;78.45;3
+Mrs. Dorriman: A Novel. Volume 2 of 3;pg41330.epub;Literary;Chetwynd| Mrs. Henry Wayland;0.16;0.7090000000000001;0.132;2787;0.864669889331238;49;230;190;80.67;3
+Mrs. Dorriman: A Novel. Volume 3 of 3;pg41331.epub;Literary;Chetwynd| Mrs. Henry Wayland;0.18;0.706;0.114;3146;0.868039537080411;56;216;142;81.16;3
+Ten Thousand a-Year. Volume 2.;pg41332.epub;Literary;Warren| Samuel;0.161;0.7509999999999999;0.08800000000000001;5048;0.870730110862632;306;129;447;63.88;3
+Mount Royal: A Novel. Volume 1 of 3;pg41339.epub;Literary;Braddon| M. E.;0.183;0.725;0.091;2634;0.8790848949150419;234;127;138;76.82;4
+Mount Royal: A Novel. Volume 2 of 3;pg41340.epub;Literary;Braddon| M. E.;0.17800000000000002;0.715;0.107;2670;0.880387528145091;182;121;141;77.71;4
+Mount Royal: A Novel. Volume 3 of 3;pg41341.epub;Literary;Braddon| M. E.;0.151;0.737;0.11199999999999999;3165;0.877756615207085;176;127;154;78.16;4
+Mohawks: A Novel. Volume 1 of 3;pg41374.epub;Literary;Braddon| M. E.;0.16;0.748;0.092;2932;0.872827060533795;313;118;176;74.85;4
+Mohawks: A Novel. Volume 2 of 3;pg41375.epub;Literary;Braddon| M. E.;0.16399999999999998;0.733;0.10300000000000001;2881;0.873356191603923;292;115;169;76.57;4
+Mohawks: A Novel. Volume 3 of 3;pg41376.epub;Literary;Braddon| M. E.;0.153;0.7290000000000001;0.11900000000000001;2835;0.871517664115313;271;93;174;77.36;4
+The Broken Thread;pg41459.epub;Detective and Mystery;Queux| William Le;0.151;0.748;0.10099999999999999;4223;0.861299720321777;160;144;282;78.8;1
+The Yazoo Mystery: A Novel;pg41483.epub;Literary;Craddock| Irving;0.127;0.7959999999999999;0.077;2858;0.869060650706314;72;88;277;79.85;4
+The Decadent: Being the Gospel of Inaction - Wherein Are Set Forth in Romance Form Certain Reflections Touching the Curious Characteristics of These Ultimate Years- and the Divers Causes Thereof;pg41490.epub;Literary;Cram| Ralph Adams;0.131;0.747;0.122;498;0.861191338008558;42;5;50;67.04;4
+The House Opposite: A Mystery;pg41525.epub;Detective and Mystery;Kent| Elizabeth;0.12;0.7490000000000001;0.131;3951;0.868015510742925;113;222;217;82.26;1
+Rose Clark;pg41542.epub;Literary;Fern| Fanny;0.15;0.747;0.10400000000000001;4671;0.88577797046903;271;320;214;81.01;4
+Mabel: A Novel. Vol. 1 (of 3);pg41564.epub;Literary;Newby| Mrs. C. J.;0.172;0.7140000000000001;0.114;2213;0.879512161382922;61;244;185;77.39;4
+A Fortnight of Folly;pg41660.epub;Literary;Conway| Hugh| Thompson| Maurice;0.156;0.748;0.096;1759;0.883736139612571;162;100;172;80.66;4
+A Changed Heart: A Novel;pg41672.epub;Literary;Fleming| May Agnes;0.13699999999999998;0.743;0.121;10249;0.873454906902937;356;396;336;81.13;4
+Albrecht;pg41764.epub;Literary;Bates| Arlo;0.14800000000000002;0.759;0.09300000000000001;2151;0.84631575485571;95;181;236;72.72;4
+Quintus Oakes: A Detective Story;pg41790.epub;Detective and Mystery;Jackson| Charles Ross;0.11699999999999999;0.7829999999999999;0.1;3805;0.854185952386943;70;7;275;80.47;1
+The Last Miracle;pg41794.epub;Literary;Shiel| M. P.;0.114;0.8009999999999999;0.085;3251;0.864084431474518;228;104;274;88.08;4
+John Marvel- Assistant;pg41817.epub;Literary;Page| Thomas Nelson;0.14400000000000002;0.7659999999999999;0.09;8979;0.858369507371748;290;261;435;80.3;4
+The Golden Bough;pg41844.epub;Literary;Gibbs| George;0.133;0.767;0.1;7818;0.862056188181637;229;195;333;81.27;4
+The Terms of Surrender;pg41859.epub;Literary;Tracy| Louis;0.14;0.758;0.102;6128;0.8756277187696959;194;187;453;78.83;4
+Ragna;pg41863.epub;Literary;Costantini| Anna Miller;0.156;0.748;0.096;2161;0.863106383613028;101;222;114;80.33;4
+A Fair Mystery: The Story of a Coquette;pg41932.epub;Literary;Brame| Charlotte M.;0.209;0.688;0.10300000000000001;11728;0.868084920314063;203;383;349;91.39;4
+The Debatable Land: A Novel;pg41963.epub;Literary;Colton| Arthur;0.12;0.792;0.08800000000000001;4290;0.8684407720550121;231;65;194;81.09;4
+The Barrel Mystery;pg42010.epub;Detective and Mystery;Flynn| William J.;0.083;0.8240000000000001;0.094;3055;0.853525433738674;194;39;125;75.63;1
+The Eve of All-Hallows- Adelaide of Tyrconnel- v. 2 of 3;pg42095.epub;Literary;Hartstonge| Matthew Weld;0.183;0.745;0.07200000000000001;1467;0.862388620458317;272;45;132;62.65;4
+The Trail-Hunter: A Tale of the Far West;pg42115.epub;Western Stories;Aimard| Gustave;0.149;0.746;0.105;6360;0.865140484364915;113;45;312;76.56;7
+The Pirates of the Prairies: Adventures in the American Desert;pg42117.epub;Western Stories;Aimard| Gustave;0.135;0.741;0.124;4899;0.867880446638023;104;140;313;76.54;7
+The World Before Them: A Novel. Volume 2 (of 3);pg42145.epub;Literary;Moodie| Susanna;0.19;0.6920000000000001;0.11800000000000001;2550;0.868706895261439;137;179;123;79.14;4
+The World Before Them: A Novel. Volume 1 (of 3);pg42165.epub;Literary;Moodie| Susanna;0.16699999999999998;0.7140000000000001;0.12;2873;0.870291292927673;117;206;153;78.8;4
+The World Before Them: A Novel. Volume 3 (of 3);pg42174.epub;Literary;Moodie| Susanna;0.182;0.684;0.134;2343;0.868051903307678;144;139;158;76.11;4
+The Shadow of a Sin;pg42320.epub;Literary;Brame| Charlotte M.;0.193;0.693;0.114;4145;0.866539418428849;110;256;182;81.97;4
+Justin Wingate- Ranchman;pg42423.epub;Western Stories;Whitson| John Harvey;0.139;0.774;0.087;4769;0.862526959699543;141;163;348;80.11;7
+Barbara Rebell;pg42462.epub;Literary;Lowndes| Marie Belloc;0.157;0.7559999999999999;0.087;4679;0.87372864523591;222;283;299;75.77;4
+Lady Eureka- The Mystery: A Prophecy of the Future. Volume 1;pg42491.epub;Literary;Williams| Robert Folkestone;0.174;0.733;0.09300000000000001;2164;0.867052337546964;101;80;226;65.81;4
+Lady Eureka- The Mystery: A Prophecy of the Future. Volume 2;pg42492.epub;Literary;Williams| Robert Folkestone;0.172;0.7290000000000001;0.098;2508;0.860497717921158;92;52;196;66.16;4
+Lady Eureka- The Mystery: A Prophecy of the Future. Volume 3;pg42493.epub;Literary;Williams| Robert Folkestone;0.171;0.7120000000000001;0.11599999999999999;2765;0.863195391284693;94;103;168;66.84;4
+Miracle Gold: A Novel (Vol. 2 of 3);pg42496.epub;Literary;Dowling| Richard;0.145;0.757;0.098;2817;0.863881910041604;88;80;198;79.49;4
+Miracle Gold: A Novel (Vol. 1 of 3);pg42498.epub;Literary;Dowling| Richard;0.128;0.7759999999999999;0.096;3329;0.863231049568854;82;117;174;80.34;4
+Miracle Gold: A Novel (Vol. 3 of 3);pg42499.epub;Literary;Dowling| Richard;0.141;0.752;0.107;3106;0.8594346758501509;75;73;184;80.55;4
+Blackthorn Farm;pg42519.epub;Literary;Applin| Arthur;0.136;0.764;0.1;5852;0.866566172214011;126;160;343;81.78;4
+Narcissus;pg42533.epub;Literary;Scott| Evelyn;0.14;0.726;0.134;4654;0.861499212098483;95;204;261;82.64;4
+The Narrow House;pg42534.epub;Literary;Scott| Evelyn;0.12300000000000001;0.74;0.13699999999999998;5094;0.8685590693507651;81;201;185;84.28;4
+Yonder;pg42536.epub;Literary;Young| E. H.;0.16699999999999998;0.732;0.10099999999999999;7893;0.858659440536069;110;401;314;93.71;4
+The Deacon: An Original Comedy Drama in Five Acts;pg42581.epub;Literary;Dale| Horace C.;0.163;0.726;0.11199999999999999;2769;0.897321889280722;322;40;88;87.14;4
+Tales and Fantasies;pg426.epub;Literary;Stevenson| Robert Louis;0.13;0.747;0.12300000000000001;2717;0.856395440952218;149;92;307;79.52;4
+The Luminous Face;pg42714.epub;Detective and Mystery;Wells| Carolyn;0.139;0.743;0.11699999999999999;5694;0.87198580903863;139;161;257;86.11;1
+Tempest-Driven: A Romance (Vol. 1 of 3);pg42750.epub;Literary;Dowling| Richard;0.115;0.77;0.115;2423;0.8637744530497241;50;86;161;80.72;4
+Tempest-Driven: A Romance (Vol. 2 of 3);pg42751.epub;Literary;Dowling| Richard;0.11599999999999999;0.774;0.11;2143;0.859078725401413;79;37;141;78.79;4
+Tempest-Driven: A Romance (Vol. 3 of 3);pg42752.epub;Literary;Dowling| Richard;0.132;0.752;0.11699999999999999;2365;0.867702917697006;64;105;107;81.4;4
+Swords Reluctant;pg42763.epub;Literary;Pemberton| Max;0.138;0.778;0.084;5597;0.865443499027579;209;188;266;81.27;4
+It Pays to Smile;pg42772.epub;Literary;Putnam| Nina Wilcox;0.146;0.7709999999999999;0.083;5329;0.86911167430872;162;211;257;81.04;4
+The Mystery of the Clasped Hands: A Novel;pg42807.epub;Detective and Mystery;Boothby| Guy;0.138;0.7879999999999999;0.07400000000000001;3703;0.856619163663532;146;112;291;77.65;1
+Great Porter Square: A Mystery. v. 1;pg42905.epub;Detective and Mystery;Farjeon| B. L.;0.133;0.7559999999999999;0.111;2906;0.863317742492721;78;141;172;80.38;1
+Great Porter Square: A Mystery. v. 2;pg42906.epub;Detective and Mystery;Farjeon| B. L.;0.159;0.721;0.11900000000000001;2714;0.856771738156521;54;139;140;80.53;1
+Great Porter Square: A Mystery. v. 3;pg42907.epub;Detective and Mystery;Farjeon| B. L.;0.136;0.7509999999999999;0.113;2469;0.858134642803551;41;129;187;79.38;1
+The Last of Their Race;pg42926.epub;Literary;Swan| Annie S.;0.14800000000000002;0.7709999999999999;0.081;6904;0.867553981332309;213;317;279;81.49;4
+Guy Kenmore's Wife- and The Rose and the Lily;pg43037.epub;Literary;Miller| Mrs. Alex. McVeigh;0.17800000000000002;0.672;0.15;7711;0.879922502996405;202;377;305;82.42;4
+Devota;pg43080.epub;Literary;Evans| Augusta J.;0.17300000000000001;0.6990000000000001;0.128;560;0.885094915517602;64;46;54;64.26;4
+Hugh Crichton's Romance;pg43162.epub;Literary;Coleridge| Christabel R.;0.183;0.726;0.091;7063;0.877181333665733;273;296;327;80.72;4
+Blade-O'-Grass. Golden Grain. and Bread and Cheese and Kisses.;pg43190.epub;Christmas Stories;Farjeon| B. L.;0.16699999999999998;0.7440000000000001;0.08900000000000001;8933;0.868885854777174;201;335;407;81.26;0
+Mrs. Severn: A Novel- Vol. 1 (of 3);pg43449.epub;Literary;Carter| Mary Elizabeth;0.14400000000000002;0.77;0.086;2887;0.8691890432308;135;203;174;82.0;4
+The Gypsy Queen's Vow;pg43489.epub;Literary;Fleming| May Agnes;0.162;0.716;0.122;9168;0.883815685772318;375;393;330;81.7;4
+Flora Adair- Love Works Wonders. Vol. 1 (of 2);pg43498.epub;Literary;Donelan| A. M.;0.17800000000000002;0.74;0.081;2953;0.873523231281675;210;214;218;77.53;4
+Flora Adair- Love Works Wonders. Vol. 2 (of 2);pg43499.epub;Literary;Donelan| A. M.;0.175;0.731;0.094;2419;0.87051648223376;164;216;244;76.71;4
+The Adventurers;pg43716.epub;Sea and Adventure;Aimard| Gustave;0.151;0.733;0.11599999999999999;5512;0.864243917153574;148;121;312;67.76;6
+Munster Village;pg43743.epub;Literary;Hamilton| Lady Mary;0.21;0.701;0.08900000000000001;1639;0.8685287676805559;199;152;162;62.84;4
+The Prairie Flower: A Tale of the Indian Border;pg43925.epub;Western Stories;Aimard| Gustave;0.14800000000000002;0.733;0.11900000000000001;5501;0.866798416495568;100;128;299;77.24;7
+First Love: A Novel. Vol. 1 of 3;pg44018.epub;Literary;Loudon| Mrs.;0.151;0.764;0.085;1994;0.873279414472954;151;148;251;74.78;4
+The Eve of All-Hallows- Adelaide of Tyrconnel- v. 3 of 3;pg44264.epub;Literary;Hartstonge| Matthew Weld;0.16399999999999998;0.741;0.095;945;0.861924386587083;263;24;89;62.12;4
+Wanted: A Husband. A Novel;pg44326.epub;Literary;Adams| Samuel Hopkins;0.155;0.748;0.09699999999999999;4398;0.881429596405156;166;237;181;84.2;4
+The Bee Hunters: A Tale of Adventure;pg44375.epub;Sea and Adventure;Aimard| Gustave;0.135;0.746;0.11800000000000001;4146;0.863549992008479;146;85;309;67.75;6
+The Rebel Chief: A Tale of Guerilla Life;pg44421.epub;Literary;Aimard| Gustave;0.156;0.738;0.105;6262;0.865598550985429;198;84;387;68.7;4
+The Smuggler Chief: A Novel;pg44454.epub;Sea and Adventure;Aimard| Gustave;0.14;0.755;0.105;4853;0.856775939806977;187;92;339;64.06;6
+The Stoneground Ghost Tales - Compiled from the recollections of the reverend Roland Batchel- the vicar of the parish.;pg44581.epub;Ghost and Horror;Swain| E. G.;0.107;0.815;0.077;1914;0.842700374590655;87;36;221;73.48;2
+Held to Answer: A Novel;pg44633.epub;Literary;MacFarlane| Peter Clark;0.146;0.7559999999999999;0.098;8538;0.864179846512299;265;259;496;67.24;4
+The Prodigal Village: A Christmas Tale;pg44796.epub;Christmas Stories;Bacheller| Irving;0.152;0.765;0.083;1901;0.85557664100995;130;53;110;80.46;0
+Little Golden's Daughter- The Dream of a Life Time;pg44803.epub;Literary;Miller| Mrs. Alex. McVeigh;0.162;0.6779999999999999;0.16;4610;0.873653684501541;119;243;179;81.58;4
+Kathleen's Diamonds- She Loved a Handsome Actor;pg44819.epub;Literary;Miller| Mrs. Alex. McVeigh;0.18;0.6679999999999999;0.152;4707;0.871676544913084;158;300;273;80.83;4
+Wild Margaret;pg44828.epub;Literary;Garvice| Charles;0.165;0.736;0.099;9265;0.864293462934568;187;298;385;92.55;4
+The Mark of Cain;pg44841.epub;Detective and Mystery;Wells| Carolyn;0.14400000000000002;0.747;0.109;5932;0.871673321600748;158;173;340;85.17;1
+The Man Who Fell Through the Earth;pg44872.epub;Detective and Mystery;Wells| Carolyn;0.14800000000000002;0.758;0.094;4578;0.868971129467761;94;199;257;84.45;1
+A Man's World;pg44878.epub;Literary;Edwards| Albert;0.14300000000000002;0.747;0.11;6797;0.863639743485418;227;176;204;81.57;4
+The Mystery Girl;pg44984.epub;Detective and Mystery;Wells| Carolyn;0.136;0.754;0.11;5088;0.875408508610895;143;251;269;84.44;1
+A Mock Idyl;pg45042.epub;Literary;Ross| Percy;0.184;0.725;0.091;1129;0.8787637273604358;60;82;109;80.57;4
+The Red River Half-Breed: A Tale of the Wild North-West;pg45047.epub;Western Stories;Aimard| Gustave;0.136;0.754;0.111;4383;0.872008225220162;214;77;311;77.75;7
+Farewell;pg45104.epub;Literary;Stacpoole| William Henry;0.151;0.785;0.064;630;0.853756853605547;36;47;34;75.72;4
+The Guide of the Desert;pg45401.epub;Western Stories;Aimard| Gustave;0.149;0.7440000000000001;0.107;3318;0.85943004704609;140;33;264;67.82;7
+The Insurgent Chief;pg45402.epub;Literary;Aimard| Gustave;0.151;0.752;0.09699999999999999;4512;0.860568525956627;142;67;343;68.1;4
+The Flying Horseman;pg45403.epub;Literary;Aimard| Gustave;0.156;0.742;0.102;3476;0.865307305768906;90;48;269;77.98;4
+Deadwood Dick Jr. Branded- Red Rover at Powder Pocket.;pg45618.epub;Western Stories;Wheeler| Edward L.;0.131;0.725;0.14400000000000002;1983;0.851392737369098;41;25;123;90.51;7
+The Curved Blades;pg45622.epub;Detective and Mystery;Wells| Carolyn;0.146;0.74;0.114;5204;0.872812690174828;156;249;260;82.43;1
+Stolen Idols;pg45636.epub;Detective and Mystery;Oppenheim| E. Phillips;0.14;0.7809999999999999;0.08;6100;0.872114947479033;130;133;293;81.07;1
+The House on the Moor- v. 1-3;pg45816.epub;Literary;Oliphant| Mrs.;0.154;0.74;0.106;2572;0.867376669647788;130;91;256;76.05;4
+The House on the Moor- v. 2-3;pg45817.epub;Literary;Oliphant| Mrs.;0.149;0.743;0.107;2518;0.867979729015142;139;87;259;74.7;4
+The House on the Moor- v. 3-3;pg45818.epub;Literary;Oliphant| Mrs.;0.16399999999999998;0.7240000000000001;0.111;623;0.869074781726635;44;35;92;66.23;4
+Pretty Geraldine- the New York Salesgirl- Wedded to Her Choice;pg45872.epub;Literary;Miller| Mrs. Alex. McVeigh;0.217;0.6659999999999999;0.11599999999999999;1422;0.867666371321013;50;127;131;79.8;4
+The Vanishing of Betty Varian;pg45912.epub;Detective and Mystery;Wells| Carolyn;0.146;0.7509999999999999;0.102;4824;0.876238203156939;118;167;245;84.44;1
+The Room with the Tassels;pg46008.epub;Detective and Mystery;Wells| Carolyn;0.136;0.7509999999999999;0.113;4656;0.877486111236115;122;194;208;84.49;1
+The Deep Lake Mystery;pg46064.epub;Detective and Mystery;Wells| Carolyn;0.147;0.75;0.10300000000000001;5114;0.868714029384916;105;208;199;84.27;1
+The Romantic Lady;pg46217.epub;Literary;Arlen| Michael;0.157;0.731;0.113;2437;0.867075657952047;84;160;200;78.04;4
+The Good Time Coming;pg4632.epub;Literary;Arthur| T. S.;0.179;0.732;0.08900000000000001;5359;0.874118800869225;72;157;226;78.48;4
+Uncle William: The Man Who Was Shif'less;pg4634.epub;Literary;Lee| Jennette;0.16399999999999998;0.7879999999999999;0.049;4397;0.855974643457205;66;86;186;95.79;4
+Harry Blount- the Detective- The Martin Mystery Solved;pg46402.epub;Detective and Mystery;Flanagan| T. J.;0.128;0.778;0.095;2081;0.8681296826745021;76;83;223;78.4;1
+White Wolf's Law: A Western Story;pg46457.epub;Western Stories;Dunning| Hal;0.09300000000000001;0.794;0.114;5111;0.8747537787812321;246;85;389;91.62;7
+Alone;pg46505.epub;Literary;Harland| Marion;0.172;0.722;0.106;9783;0.8727828953090351;329;444;399;80.75;4
+God's Good Man: A Simple Love Story;pg4653.epub;Love and Romance;Corelli| Marie;0.17300000000000001;0.74;0.08800000000000001;11551;0.883713509236176;604;465;536;80.68;5
+The Crime Club;pg46566.epub;Detective and Mystery;Holt-White| W.;0.12300000000000001;0.78;0.098;5253;0.863684002947305;113;123;334;77.57;1
+At War with Society- Tales of the Outcasts;pg46623.epub;Detective and Mystery;M'Levy| James;0.136;0.762;0.102;3008;0.854070812497202;271;117;209;76.53;1
+Outpost;pg4676.epub;Literary;Austin| Jane G.;0.16399999999999998;0.75;0.086;4007;0.872552105846485;266;320;280;89.96;4
+The Idol of the Blind: A Novel;pg47211.epub;Literary;Gallon| Tom;0.149;0.758;0.09300000000000001;7165;0.860608473892084;92;266;430;87.75;4
+A Country Sweetheart;pg47282.epub;Literary;Russell| Dora;0.152;0.743;0.105;8212;0.868881689880528;165;347;375;82.06;4
+When Egypt Went Broke: A Novel;pg4733.epub;Literary;Day| Holman;0.111;0.8029999999999999;0.086;5926;0.860369608376814;139;104;333;79.76;4
+Kate Vernon: A Tale. Vol. 1 (of 3);pg47338.epub;Literary;Alexander| Mrs.;0.19;0.731;0.079;1789;0.874452691998196;194;104;101;79.01;4
+At the Villa Rose;pg4745.epub;Detective and Mystery;Mason| A. E. W.;0.126;0.775;0.1;6446;0.860204397876004;124;240;231;82.37;1
+The Fiction Factory - Being the experience of a writer who- for twenty-two years- has kept a story-mill grinding successfully;pg47455.epub;Literary;Cook| William Wallace;0.14;0.802;0.057999999999999996;2387;0.86156177547674;193;13;177;63.53;4
+"Odette's Marriage - A Novel- from the French of Albert Delpit- Translated from the ""Revue des Deux Mondes||"" by Emily Prescott";pg47697.epub;Literary;Delpit| Albert;0.18;0.687;0.133;3044;0.875031050428825;95;175;151;80.83;4
+Sekhet;pg47744.epub;Literary;Miller| Irene;0.17;0.722;0.10800000000000001;6727;0.884285299991761;243;412;275;71.67;4
+Mirk Abbey- Volume 1 (of 3);pg47771.epub;Literary;Payn| James;0.158;0.742;0.10099999999999999;1860;0.88072984013097;147;137;159;78.05;4
+Mirk Abbey- Volume 2 (of 3);pg47772.epub;Literary;Payn| James;0.151;0.7390000000000001;0.11;1801;0.880507248959263;147;130;141;79.58;4
+Mirk Abbey- Volume 3 (of 3);pg47773.epub;Literary;Payn| James;0.13699999999999998;0.753;0.11;1646;0.880323345683525;148;115;174;76.08;4
+Half a Rogue;pg4790.epub;Literary;MacGrath| Harold;0.153;0.747;0.1;6906;0.875085872704389;157;151;305;83.53;4
+Dawn;pg4794.epub;Literary;Adams| Mrs. H. A.;0.184;0.7290000000000001;0.087;5408;0.875653015684576;161;270;205;78.41;4
+The Circassian Slave- the Sultan's favorite : a story of Constantinople and the Caucasus;pg4795.epub;Literary;Ballou| Maturin Murray;0.165;0.746;0.08800000000000001;1410;0.853411569224676;46;122;207;69.9;4
+A Life for a Life- Volume 1 (of 3);pg47997.epub;Literary;Craik| Dinah Maria Mulock;0.166;0.726;0.10800000000000001;389;0.883378902545126;31;16;32;78.74;4
+A Soldier's Daughter- and Other Stories;pg48297.epub;Sea and Adventure;Henty| G. A.;0.11;0.794;0.096;2178;0.860510059958681;58;110;97;84.02;6
+A Life for a Life- Volume 2 (of 3);pg48482.epub;Literary;Craik| Dinah Maria Mulock;0.16899999999999998;0.732;0.099;2955;0.87657493229958;113;104;166;79.51;4
+A Life for a Life- Volume 3 (of 3);pg48483.epub;Literary;Craik| Dinah Maria Mulock;0.152;0.7290000000000001;0.11800000000000001;3094;0.877126238938732;99;129;195;80.5;4
+Tinman;pg48989.epub;Literary;Gallon| Tom;0.13;0.772;0.099;1245;0.834700912112424;25;48;136;88.02;4
+Hilda Wade- a Woman with Tenacity of Purpose;pg4903.epub;Literary;Allen| Grant;0.145;0.753;0.102;6840;0.881637906677145;251;228;252;82.5;4
+The Lilac Sunbonnet: A Love Story;pg4918.epub;Love and Romance;Crockett| S. R.;0.138;0.7909999999999999;0.071;4722;0.871048447837492;379;199;286;79.57;5
+King Midas: a Romance;pg4923.epub;Literary;Sinclair| Upton;0.155;0.737;0.10800000000000001;4608;0.851093434632494;93;293;276;88.16;4
+The Fashionable Adventures of Joshua Craig: A Novel;pg4929.epub;Sea and Adventure;Phillips| David Graham;0.172;0.7170000000000001;0.111;5715;0.87494463056102;141;333;346;82.73;6
+The Spider and the Fly- An Undesired Love;pg49537.epub;Literary;Garvice| Charles;0.156;0.7440000000000001;0.1;7920;0.866047630812125;201;181;408;82.52;4
+Leah Mordecai: A Novel;pg4955.epub;Literary;Abbott| Belle K.;0.18100000000000002;0.695;0.124;3589;0.877579250354115;223;175;191;80.61;4
+Chetwynd Calverley - New Edition- 1877;pg49680.epub;Literary;Ainsworth| William Harrison;0.171;0.746;0.083;7235;0.880278925800863;204;248;336;82.61;4
+The Desultory Man - Collection of Ancient and Modern British Novels and Romances. Vol. CXLVII.;pg49718.epub;Literary;James| G. P. R.;0.13699999999999998;0.763;0.1;5440;0.858655320318093;420;213;432;70.78;4
+The Forgery- Best Intentions.;pg50042.epub;Literary;James| G. P. R.;0.139;0.772;0.08900000000000001;6387;0.871428756156673;256;222;406;76.02;4
+Desert Gold;pg502.epub;Western Stories;Grey| Zane;0.124;0.753;0.12300000000000001;8548;0.8749000450131621;176;143;436;82.37;7
+The Mystery of the Sycamore;pg50209.epub;Detective and Mystery;Wells| Carolyn;0.151;0.736;0.113;5247;0.869482010533524;107;193;247;85.01;1
+Leslie's Loyalty;pg50440.epub;Literary;Garvice| Charles;0.15;0.736;0.114;11705;0.864550035647585;176;389;456;92.69;4
+De L'Orme. - The Works of G. P. R. James- Esq.|| Vol. XVI.;pg50688.epub;Literary;James| G. P. R.;0.141;0.759;0.1;5893;0.856963817195502;310;169;523;69.07;4
+"The Romance of Elaine - Sequel to ""Exploits of Elaine""";pg5094.epub;Detective and Mystery;Reeve| Arthur B.;0.086;0.8240000000000001;0.09;6501;0.854185667320869;150;201;371;79.18;1
+Morley Ernstein- the Tenants of the Heart;pg51251.epub;Literary;James| G. P. R.;0.159;0.754;0.08800000000000001;5618;0.865915003800619;239;252;436;72.6;4
+The Fate: A Tale of Stirring Times;pg51455.epub;Literary;James| G. P. R.;0.151;0.753;0.096;5998;0.86996891035319;240;196;395;74.96;4
+Margret Howth: A Story of To-day;pg515.epub;Literary;Davis| Rebecca Harding;0.142;0.732;0.126;3484;0.872176925618469;156;142;226;88.45;4
+The Exploits of Elaine;pg5151.epub;Detective and Mystery;Reeve| Arthur B.;0.11199999999999999;0.7879999999999999;0.1;5945;0.863329093702115;172;158;368;80.45;1
+Delaware- The Ruined Family. Vol. 1;pg51628.epub;Literary;James| G. P. R.;0.149;0.765;0.087;1853;0.866131475005801;142;65;266;59.51;4
+Delaware- The Ruined Family. Vol. 2;pg51629.epub;Literary;James| G. P. R.;0.125;0.772;0.10400000000000001;2227;0.862385863903948;93;87;256;70.99;4
+Delaware- The Ruined Family. Vol. 3;pg51630.epub;Literary;James| G. P. R.;0.133;0.753;0.114;1969;0.860949075999121;123;59;273;69.84;4
+Innocent : her fancy and his fact;pg5165.epub;Love and Romance;Corelli| Marie;0.19399999999999998;0.7070000000000001;0.1;8140;0.873454793567356;215;385;364;81.95;5
+A Whim- and Its Consequences - Collection of British Authors Vol. CXIV;pg51715.epub;Literary;James| G. P. R.;0.129;0.768;0.10300000000000001;7172;0.862566756857868;282;167;450;75.94;4
+Corpus of a Siam Mosquito;pg5176.epub;Literary;Sills| Steven;0.12;0.789;0.091;4518;0.86750100131944;106;117;295;78.42;4
+A Siren;pg5179.epub;Detective and Mystery;Trollope| Thomas Adolphus;0.13699999999999998;0.7709999999999999;0.092;7962;0.850610249402903;283;240;341;74.45;1
+Daireen. Volume 1 of 2;pg51936.epub;Literary;Moore| Frank Frankfort;0.135;0.789;0.076;2717;0.859584384087521;117;116;195;77.99;4
+Daireen. Volume 2 of 2;pg51937.epub;Literary;Moore| Frank Frankfort;0.14400000000000002;0.778;0.077;3037;0.859234586427813;107;111;182;79.74;4
+Daireen. Complete;pg51938.epub;Literary;Moore| Frank Frankfort;0.14;0.784;0.076;5754;0.859828701654605;181;173;295;78.89;4
+Priscilla and Charybdis: A Story of Alternatives;pg51972.epub;Literary;Moore| Frank Frankfort;0.139;0.7829999999999999;0.078;5869;0.8502446635630071;200;243;332;77.36;4
+Well- After All;pg51988.epub;Literary;Moore| Frank Frankfort;0.14;0.757;0.10300000000000001;4448;0.850238359221424;120;207;252;78.54;4
+The Confessions of Harry Lorrequer â Volume 1;pg5234.epub;Literary;Lever| Charles James;0.15;0.7659999999999999;0.083;1261;0.865918744702663;185;47;162;64.66;4
+The Confessions of Harry Lorrequer â Volume 2;pg5235.epub;Literary;Lever| Charles James;0.152;0.754;0.094;1229;0.86612391316286;154;40;163;66.35;4
+The Confessions of Harry Lorrequer â Volume 3;pg5236.epub;Literary;Lever| Charles James;0.162;0.763;0.075;566;0.868476473164206;110;17;74;63.2;4
+The Confessions of Harry Lorrequer â Volume 4;pg5237.epub;Literary;Lever| Charles James;0.149;0.77;0.081;626;0.859950623000967;87;31;107;62.86;4
+The Confessions of Harry Lorrequer â Volume 5;pg5238.epub;Literary;Lever| Charles James;0.163;0.7440000000000001;0.09300000000000001;1213;0.872623584469048;114;67;130;73.56;4
+The Confessions of Harry Lorrequer â Volume 6;pg5239.epub;Literary;Lever| Charles James;0.154;0.7659999999999999;0.08;1348;0.8677914120569581;152;48;144;74.65;4
+The Confessions of Harry Lorrequer â Complete;pg5240.epub;Literary;Lever| Charles James;0.155;0.759;0.086;6248;0.867786453166443;651;182;471;65.1;4
+Youth- a Narrative;pg525.epub;Sea and Adventure;Conrad| Joseph;0.111;0.789;0.1;871;0.853044084207725;36;25;37;89.45;6
+Kate Vernon: A Tale. Vol. 2 (of 3);pg53356.epub;Literary;Alexander| Mrs.;0.18100000000000002;0.7240000000000001;0.095;2050;0.885440863342336;180;173;172;80.77;4
+The Touch of Abner;pg53604.epub;Literary;Cody| H. A.;0.134;0.7829999999999999;0.083;7075;0.879493532456083;234;187;390;93.43;4
+Kate Vernon: A Tale. Vol. 3 (of 3);pg53668.epub;Literary;Alexander| Mrs.;0.18600000000000003;0.7120000000000001;0.102;2560;0.882648990564673;189;257;167;80.09;4
+Baron Trigault's Vengeance;pg547.epub;Detective and Mystery;Gaboriau| Emile;0.142;0.735;0.12300000000000001;7671;0.873303709191436;203;310;511;79.2;1
+At Last: A Novel;pg5622.epub;Literary;Harland| Marion;0.157;0.742;0.10099999999999999;3946;0.866172552517571;167;307;210;66.18;4
+The Potato Child & Others;pg5662.epub;Christmas Stories;Woodbury| Lucia Prudence Hall;0.13699999999999998;0.768;0.096;514;0.864281133960322;29;50;29;92.75;0
+The Prose of Alfred Lichtenstein;pg5663.epub;Literary;Lichtenstein| Alfred;0.14300000000000002;0.711;0.146;1642;0.879600981792679;116;71;123;72.56;4
+The Queen of Sheba- and My Cousin the Colonel;pg5705.epub;Literary;Aldrich| Thomas Bailey;0.115;0.792;0.09300000000000001;3425;0.866545220371398;189;84;227;77.25;4
+The Flyers;pg5848.epub;Literary;McCutcheon| George Barr;0.139;0.752;0.109;2015;0.876974715135177;73;99;129;84.5;4
+Michael's Crag;pg5869.epub;Literary;Allen| Grant;0.154;0.738;0.107;2121;0.876001087143503;85;71;221;81.26;4
+Danny's Own Story;pg587.epub;Humorous and Wit and Satire;Marquis| Don;0.111;0.8;0.08900000000000001;4746;0.859201337634036;219;160;329;92.98;3
+Celibates;pg6005.epub;Literary;Moore| George Augustus;0.142;0.762;0.096;6755;0.865600031874548;209;350;305;83.21;4
+Opening a Chestnut Burr;pg6028.epub;Literary;Roe| Edward Payson;0.182;0.6970000000000001;0.121;7513;0.874720723050105;136;306;399;78.34;4
+Fran;pg6057.epub;Literary;Ellis| J. Breckenridge;0.156;0.745;0.099;5182;0.879465550486286;119;290;251;83.6;4
+Philistia;pg6060.epub;Literary;Allen| Grant;0.163;0.748;0.08900000000000001;6393;0.881673820455668;452;199;363;70.69;4
+From Jest to Earnest;pg6102.epub;Literary;Roe| Edward Payson;0.18;0.716;0.10400000000000001;7071;0.874496584870253;174;332;351;77.91;4
+Their Yesterdays;pg6105.epub;Love and Romance;Wright| Harold Bell;0.155;0.752;0.09300000000000001;2988;0.83419714864132;39;165;246;71.07;5
+A Day of Fate;pg6113.epub;Love and Romance;Roe| Edward Payson;0.18899999999999997;0.7040000000000001;0.107;6841;0.868402776588994;123;289;164;82.17;5
+No Defense- Volume 1.;pg6292.epub;Literary;Parker| Gilbert;0.16399999999999998;0.7340000000000001;0.102;1520;0.864055021105794;77;49;112;90.72;4
+No Defense- Volume 2.;pg6293.epub;Literary;Parker| Gilbert;0.136;0.7509999999999999;0.11199999999999999;1100;0.853462160655505;53;20;93;88.69;4
+No Defense- Volume 3.;pg6294.epub;Literary;Parker| Gilbert;0.135;0.748;0.11699999999999999;2823;0.862103911231279;85;106;207;90.15;4
+No Defense- Complete;pg6295.epub;Literary;Parker| Gilbert;0.147;0.745;0.107;4953;0.862727596825062;150;128;275;90.12;4
+Carnac's Folly- Volume 1.;pg6296.epub;Literary;Parker| Gilbert;0.152;0.758;0.09;2315;0.853615940002762;48;81;182;93.77;4
+Carnac's Folly- Volume 2.;pg6297.epub;Literary;Parker| Gilbert;0.162;0.731;0.106;619;0.858979752375978;19;61;73;92.78;4
+Carnac's Folly- Volume 3.;pg6298.epub;Literary;Parker| Gilbert;0.156;0.7509999999999999;0.09300000000000001;2289;0.855484805308282;48;103;182;92.11;4
+Carnac's Folly- Complete;pg6299.epub;Literary;Parker| Gilbert;0.155;0.7509999999999999;0.095;5079;0.85626646541221;90;180;298;92.97;4
+A Knight of the Nineteenth Century;pg6311.epub;Literary;Roe| Edward Payson;0.161;0.7240000000000001;0.115;6468;0.870661863781362;169;237;472;74.97;4
+Self-Raised- From the Depths;pg6376.epub;Literary;Southworth| Emma Dorothy Eliza Nevitte;0.152;0.747;0.1;12598;0.8714116265575;498;396;443;81.1;4
+Once Aboard the Lugger-- The History of George and his Mary;pg6410.epub;Humorous and Wit and Satire;Hutchinson| A. S. M.;0.14400000000000002;0.743;0.114;9418;0.887314544143018;272;265;375;84.01;3
+The Iron Woman;pg6474.epub;Literary;Deland| Margaret Wade Campbell;0.133;0.745;0.122;10661;0.869576010701673;161;455;421;83.53;4
+The Grey Lady;pg6517.epub;Literary;Merriman| Henry Seton;0.142;0.772;0.086;4792;0.869565966447066;150;172;200;79.9;4
+Any Coincidence Is - The Day Julia & Cecil the Cat Faced a Fate Worse Than Death;pg6526.epub;Literary;Callahan| Daniel;0.098;0.81;0.092;2131;0.883574800773944;71;72;125;82.51;4
+Si'Wren of the Patriarchs;pg6592.epub;Literary;Cheney| Roland Jon;0.11599999999999999;0.757;0.127;4185;0.872426037953055;103;318;273;61.87;4
+The Doctor's Daughter;pg6809.epub;Literary;Vera|;0.171;0.722;0.107;3534;0.875254754202539;143;174;169;66.58;4
+Creatures That Once Were Men;pg681.epub;Literary;Gorky| Maksim;0.126;0.755;0.11900000000000001;1805;0.865190282082201;48;9;129;80.0;4
+Average Jones;pg6864.epub;Detective and Mystery;Adams| Samuel Hopkins;0.11900000000000001;0.794;0.087;6388;0.876959224897714;276;54;324;82.58;1
+The Happy Adventurers;pg6901.epub;Literary;Middleton| Lydia Miller;0.145;0.784;0.071;4133;0.881826785240138;206;187;162;90.14;4
+Aikenside;pg6954.epub;Literary;Holmes| Mary Jane;0.142;0.76;0.098;2922;0.865045085701541;143;329;323;77.72;4
+A Terrible Secret: A Novel;pg7063.epub;Literary;Fleming| May Agnes;0.158;0.721;0.121;11022;0.879743833915759;336;425;349;83.4;4
+Fanshawe;pg7085.epub;Literary;Hawthorne| Nathaniel;0.14800000000000002;0.763;0.08900000000000001;1889;0.858027828375809;57;106;190;65.53;4
+The Dolliver Romance;pg7119.epub;Literary;Hawthorne| Nathaniel;0.135;0.7609999999999999;0.10400000000000001;536;0.861473516831596;34;22;115;57.81;4
+Linda Condon;pg7171.epub;Literary;Hergesheimer| Joseph;0.1;0.838;0.062;2;0.0;3;0;0;82.64;4
+Doctor Grimshawe's Secret â a Romance;pg7183.epub;Literary;Hawthorne| Nathaniel;0.134;0.769;0.096;2955;0.861117435104704;101;39;322;61.5;4
+A Psychological Counter-Current in Recent Fiction;pg726.epub;Literary;Howells| William Dean;0.16899999999999998;0.7290000000000001;0.10099999999999999;218;0.841252639388825;33;19;30;60.86;4
+The Wishing-Ring Man;pg7424.epub;Literary;Widdemer| Margaret;0.218;0.728;0.055;4808;0.872213268557569;162;272;215;82.83;4
+Falkland- Book 1.;pg7757.epub;Literary;Lytton| Baron Edward Bulwer Lytton;0.165;0.7340000000000001;0.10099999999999999;339;0.848602015117594;39;30;26;63.38;4
+Falkland- Book 2.;pg7758.epub;Literary;Lytton| Baron Edward Bulwer Lytton;0.161;0.727;0.11199999999999999;445;0.856392257576147;27;26;51;79.02;4
+Falkland- Book 3.;pg7759.epub;Literary;Lytton| Baron Edward Bulwer Lytton;0.151;0.7290000000000001;0.12;324;0.864836758154008;21;23;38;77.53;4
+Falkland- Book 4.;pg7760.epub;Literary;Lytton| Baron Edward Bulwer Lytton;0.128;0.74;0.131;455;0.856812455962361;32;29;69;74.06;4
+Falkland- Complete;pg7761.epub;Literary;Lytton| Baron Edward Bulwer Lytton;0.14400000000000002;0.7340000000000001;0.122;1481;0.857410705604952;78;80;139;74.93;4
+Fan : The Story of a Young Girl's Life;pg7827.epub;Literary;Hudson| W. H.;0.171;0.723;0.106;8473;0.866899015346921;217;418;322;77.66;4
+The Rise of Iskander;pg7842.epub;Literary;Disraeli| Earl of Beaconsfield Benjamin;0.175;0.7340000000000001;0.09;1581;0.857138590336691;66;59;90;69.01;4
+The Vision of Desire;pg7855.epub;Literary;Pedler| Margaret;0.156;0.745;0.099;7584;0.876747807565202;170;391;350;81.75;4
+An Ambitious Man;pg7866.epub;Literary;Wilcox| Ella Wheeler;0.171;0.711;0.11699999999999999;1878;0.855879561796784;75;196;115;72.71;4
+A Fool for Love;pg8073.epub;Literary;Lynde| Francis;0.136;0.787;0.077;553;0.856420452067719;43;32;63;80.65;4
+A Fountain Sealed;pg8087.epub;Literary;Sedgwick| Anne Douglas;0.17;0.7340000000000001;0.096;5664;0.869488269670797;106;363;231;80.11;4
+The Misses Mallett (The Bridge Dividing);pg8131.epub;Literary;Young| E. H.;0.166;0.732;0.102;6401;0.857969260375949;91;384;218;84.0;4
+The Ghost of Guir House;pg8182.epub;Ghost and Horror;Beale| Charles Willing;0.11699999999999999;0.7909999999999999;0.092;1782;0.864423338111093;36;74;180;75.88;2
+Monsieur Maurice;pg8383.epub;Literary;Edwards| Amelia Ann Blanford;0.12;0.7879999999999999;0.092;1447;0.8613968577417758;77;8;116;80.07;4
+Ptomaine Street: The Tale of Warble Petticoat;pg8386.epub;Literary;Wells| Carolyn;0.17600000000000002;0.752;0.07200000000000001;1852;0.882228149929567;152;156;89;84.97;4
+The Gentleman: A Romance of the Sea;pg8396.epub;Sea and Adventure;Ollivant| Alfred;0.13;0.7609999999999999;0.109;10067;0.856517274855987;398;87;489;93.61;6
+Young People's Pride: A Novel;pg8403.epub;Literary;Ben Stephen Vincent;0.161;0.755;0.084;3397;0.884647567530533;221;162;221;81.72;4
+Rest Harrow: A Comedy of Resolution;pg8464.epub;Literary;Hewlett| Maurice;0.16;0.7609999999999999;0.078;8002;0.869032355605398;275;361;340;92.68;4
+The Puritans;pg8522.epub;Literary;Bates| Arlo;0.157;0.742;0.10099999999999999;6985;0.858007306300233;166;312;382;79.57;4
+The Woman with the Fan;pg8549.epub;Literary;Hichens| Robert;0.136;0.7609999999999999;0.10300000000000001;7432;0.869089978907095;170;313;212;82.38;4
+The Far Horizon;pg8569.epub;Literary;Malet| Lucas;0.16;0.7290000000000001;0.111;7082;0.877603204926057;206;224;281;70.97;4
+The Philistines;pg8570.epub;Literary;Bates| Arlo;0.154;0.746;0.1;4661;0.8663706161663159;185;265;326;67.29;4
+The Wheel O' Fortune;pg8596.epub;Literary;Tracy| Louis;0.127;0.767;0.106;5394;0.874181768321746;252;167;367;79.01;4
+The Pagans;pg8671.epub;Literary;Bates| Arlo;0.163;0.73;0.107;3701;0.875439091197145;125;207;229;80.63;4
+The Living Link: A Novel;pg8711.epub;Literary;Mille| James De;0.126;0.746;0.128;9507;0.869668492373776;133;372;383;80.02;4
+The Brass Bowl;pg8741.epub;Literary;Vance| Louis Joseph;0.145;0.754;0.10099999999999999;1644;0.870138411884577;48;78;213;71.87;4
+From One Generation to Another;pg8805.epub;Literary;Merriman| Henry Seton;0.147;0.754;0.098;4019;0.874274990321029;122;139;222;78.39;4
+Miss Theodosia's Heartstrings;pg8865.epub;Literary;Donnell| Annie Hamilton;0.19399999999999998;0.713;0.09300000000000001;3162;0.881667912757122;89;203;105;86.8;4
+A Love Story;pg8883.epub;Literary;Christie| William Harvey;0.15;0.759;0.09;4188;0.86582809129332;355;110;305;64.56;4
+Three Weeks;pg8899.epub;Love and Romance;Glyn| Elinor;0.182;0.7340000000000001;0.085;3420;0.863955256803884;134;197;268;80.63;5
+The Golden Calf;pg9052.epub;Literary;Braddon| M. E.;0.16699999999999998;0.736;0.09699999999999999;8618;0.876702430070494;434;285;285;78.61;4
+Eleanor;pg9087.epub;Literary;Ward| Mrs. Humphry;0.135;0.758;0.107;11114;0.866735330190571;285;386;322;81.18;4
+The Bride of Dreams;pg9111.epub;Literary;Eeden| Frederik van;0.19699999999999998;0.6970000000000001;0.105;4350;0.864794467781061;137;120;167;66.63;4
+Henry Dunbar: A Novel;pg9189.epub;Literary;Braddon| M. E.;0.138;0.759;0.10300000000000001;7670;0.863573029022545;327;192;361;76.88;4
+Charlotte's Inheritance;pg9259.epub;Literary;Braddon| M. E.;0.16;0.727;0.114;7985;0.8696427674289959;429;224;348;77.35;4
+One Day's Courtship- and The Heralds of Fame;pg9305.epub;Literary;Barr| Robert;0.133;0.767;0.1;2758;0.859666581657954;67;86;114;82.35;4
+Hetty's Strange History;pg9311.epub;Literary;Jackson| Helen Hunt;0.141;0.757;0.102;3428;0.874507129521789;98;228;179;80.46;4
+Birds of Prey;pg9362.epub;Literary;Braddon| M. E.;0.149;0.758;0.09300000000000001;7202;0.870138561637336;525;207;362;75.67;4
+A Woman Intervenes;pg9379.epub;Literary;Barr| Robert;0.139;0.7829999999999999;0.078;6536;0.86034662356519;80;159;250;81.05;2
+Theresa Marchmont- the Maid of Honour: A Tale;pg9387.epub;Literary;Gore| Mrs.;0.17;0.6890000000000001;0.141;434;0.841962076298723;48;86;64;55.83;2
+Helen of the Old House;pg9410.epub;Literary;Wright| Harold Bell;0.133;0.76;0.10800000000000001;5466;0.862414442616225;162;170;289;79.37;2
+The Ashiel mystery: A Detective Story;pg9746.epub;Detective and Mystery;Bryce| Mrs. Charles;0.138;0.705;0.158;46;0.862957371362521;5;0;16;74.62;1
+The Fortune Hunter;pg9747.epub;Literary;Smith| Winchell| Vance| Louis Joseph;0.152;0.762;0.086;5328;0.873837604298569;207;147;384;84.37;2
+Scarhaven Keep;pg9807.epub;Detective and Mystery;Fletcher| J. S.;0.102;0.83;0.068;5498;0.876663752864332;143;87;347;82.09;1
+The Price of Things;pg9809.epub;Literary;Glyn| Elinor;0.161;0.737;0.102;4550;0.867324906803425;162;256;265;80.73;2
+The Brown Mask;pg9849.epub;Sea and Adventure;Brebner| Percy James;0.141;0.748;0.111;6371;0.867502944677639;148;211;320;81.03;3
+The Two Guardians - Home in This World;pg9926.epub;Literary;Yonge| Charlotte M.;0.16699999999999998;0.736;0.096;5882;0.868945628174875;208;383;273;78.22;2
+The Bronze Bell;pg9927.epub;Sea and Adventure;Vance| Louis Joseph;0.12;0.772;0.10800000000000001;5780;0.868915189576265;190;151;428;79.86;3
+Mr. Waddington of Wyck;pg9967.epub;Literary;Sinclair| May;0.15;0.7659999999999999;0.084;5522;0.867546133518575;131;161;293;85.07;2
+Captivating Mary Carstairs;pg9993.epub;Literary;Harrison| Henry Sydnor;0.141;0.7659999999999999;0.09300000000000001;6095;0.875971681229854;177;101;342;81.77;2
+Persuasion;pg105JaneAusPersuatn.epub;Literary;Austen| Jane;0.174;0.747;0.079;3647;0.869594046560545;162;178;179;66.17;2
+Return of Sherlock Holmes;pg108DoyleReturnSherlk.epub;Detective and Mystery;Connan| Doyle;0.125;0.777;0.09699999999999999;7806;0.863863685783032;273;114;381;80.45;1
+The Secret Adversary;pg1155Agatha2.epub;Detective and Mystery;Christie| Agatha;0.125;0.7759999999999999;0.099;8016;0.877316877550517;161;191;260;85.25;1
+Alice's Adventures in Wonderland;pg11CarolAlice.epub;Literary;Carroll| Lewis;0.10400000000000001;0.7979999999999999;0.098;1543;0.85194122799878;47;123;44;90.76;2
+Through the Looking-Glass;pg12CarolGlassLook.epub;Literary;Carroll| Lewis;0.129;0.7959999999999999;0.075;1927;0.859141773198655;54;132;78;92.25;2
+Pride and Prejudice;pg1342JaneAustenPP.epub;Literary;Austen| Jane;0.174;0.74;0.086;5997;0.873076339253897;135;305;270;67.83;2
+Mardi: and A Voyage Thither I;pg13720HermanVoyage1.epub;Sea and Adventure;Melville| Herman;0.121;0.787;0.092;4875;0.8741279173522359;382;96;229;65.74;3
+Mardi: and A Voyage Thither ||;pg13721HermanVoyage2.epub;Sea and Adventure;Melville| Herman;0.13;0.77;0.1;7059;0.895323455830988;469;61;285;80.67;3
+Great Expectations;pg1400DickensGreatExp.epub;Literary;Dickens| Charles;0.121;0.79;0.08900000000000001;9824;0.860314409427782;248;233;453;79.2;2
+Mansfield Park;pg141JaneAusMansPark.epub;Literary;Austen| Jane;0.179;0.732;0.08900000000000001;6877;0.866929120678457;196;299;247;75.91;2
+Emma;pg158JaneAustenEmma.epub;Literary;Austen| Jane;0.18600000000000003;0.726;0.08900000000000001;8639;0.873209085390806;169;318;276;78.86;2
+Sense and Sensibility;pg161SJaneAusSensSensi.epub;Literary;Austen| Jane;0.17300000000000001;0.7340000000000001;0.09300000000000001;5191;0.872618238676935;136;332;256;66.96;2
+A Christmas Carol;pg19337DickensChristCarl.epub;Christmas Stories;Dickens| Charles;0.153;0.747;0.1;1973;0.867590342069542;100;26;153;79.62;0
+The Sign of Four;pg2097DoyleSignFour.epub;Detective and Mystery;Connan| Doyle;0.128;0.778;0.094;2924;0.865933965379456;117;46;196;80.0;1
+The Works of Edgar Allan Poe I;pg2147EdgarPoe1.epub;Detective and Mystery;Poe| Edgar Allan;0.099;0.7959999999999999;0.105;3587;0.85037528608906;232;39;191;61.5;1
+The Works of Edgar Allan Poe II;pg2148EdgarPoe2.epub;Detective and Mystery;Poe| Edgar Allan;0.114;0.7709999999999999;0.115;3891;0.845814978976801;169;46;183;63.06;1
+The Works of Edgar Allan Poe III;pg2149EdgarPoe3.epub;Detective and Mystery;Poe| Edgar Allan;0.114;0.785;0.10099999999999999;3730;0.854378596553916;244;103;190;59.01;1
+The Works of Edgar Allan Poe IV;pg2150EdgarPoe4.epub;Detective and Mystery;Poe| Edgar Allan;0.133;0.777;0.091;4079;0.859158810067722;382;33;239;66.65;1
+The Confidence-Man;pg21816HermanConfidence.epub;Literary;Melville| Herman;0.168;0.732;0.1;4872;0.87982608623645;231;31;344;69.92;2
+Five Tales;pg2684Galsw4.epub;Literary;Galsworthy| John;0.134;0.772;0.094;7081;0.872983412357544;303;164;395;82.31;2
+Moby Dick;pg2701HermanMobyDick.epub;Sea and Adventure;Melville| Herman;0.10400000000000001;0.804;0.091;9469;0.875338636592878;756;62;614;74.85;3
+The Hound of the Baskervilles;pg2852DoyleHound.epub;Detective and Mystery;Connan| Doyle;0.114;0.782;0.105;3793;0.862285747254775;82;53;234;79.71;1
+A Tangled Tale;pg29042CarolTangTale.epub;Literary;Carroll| Lewis;0.113;0.813;0.07400000000000001;1844;0.882078864681395;230;78;77;79.9;2
+Justice;pg2911Galsw2.epub;Literary;Galsworthy| John;0.11599999999999999;0.8009999999999999;0.083;1905;0.862909732376264;39;19;56;96.41;2
+The Little Man;pg2919Galsw5.epub;Literary;Galsworthy| John;0.161;0.742;0.09699999999999999;374;0.863782767455114;30;4;5;81.17;2
+Pierre or The Ambiguities;pg34970HermanPierre.epub;Literary;Melville| Herman;0.145;0.765;0.09;6598;0.878552241639171;409;179;412;66.37;2
+Omoo Adventures in the South Seas;pg4045HermanOmmo.epub;Sea and Adventure;Melville| Herman;0.11199999999999999;0.8059999999999999;0.08199999999999999;2884;0.86045314675428;175;31;244;63.46;3
+The Forsyte Saga;pg4397Galsw1.epub;Literary;Galsworthy| John;0.131;0.7829999999999999;0.086;4684;0.869409343435473;211;174;351;78.62;2
+The Game of Logic;pg4763CarolLogik.epub;Literary;Carroll| Lewis;0.10099999999999999;0.8190000000000001;0.08;434;0.849315738439861;21;2;11;82.77;2
+Loyalties;pg4765Galsw3.epub;Literary;Galsworthy| John;0.11599999999999999;0.804;0.08;2305;0.871997528092182;93;22;76;88.37;2
+Tales of Terror and Mystery;pg537DoyleTerrorTales.epub;Detective and Mystery;Connan| Doyle;0.11699999999999999;0.79;0.09300000000000001;4109;0.856762580016263;201;77;266;76.72;1
+Sylvie and Bruno;pg620CarolBruno.epub;Literary;Carroll| Lewis;0.152;0.7609999999999999;0.087;4712;0.87141970344524;143;118;296;82.99;2
+Oliver Twist;pg730DickensOliverTw.epub;Literary;Dickens| Charles;0.138;0.7609999999999999;0.10099999999999999;9193;0.871885987466968;222;204;464;77.77;2
+David Copperfield;pg766DickensDavidCopfld.epub;Literary;Dickens| Charles;0.152;0.763;0.085;19591;0.865487187996198;480;456;572;79.9;2
+Hard Times;pg786DickensHardTimes.epub;Literary;Dickens| Charles;0.133;0.78;0.087;6036;0.877662310205444;235;197;322;80.37;2
+Memoirs of Shelock Holmes;pg834DoyleMemoirsSherlk.epub;Detective and Mystery;Connan| Doyle;0.11199999999999999;0.8;0.08800000000000001;5498;0.860009524807785;193;86;365;78.89;1
+The Mysterious Affair at Styles;pg863Agatha1.epub;Detective and Mystery;Christie| Agatha;0.134;0.752;0.114;5370;0.873382726263575;124;145;219;84.28;1
+A Tale of Two Cities;pg98DickensTaleCities.epub;Literary;Dickens| Charles;0.106;0.8029999999999999;0.091;964;0.858335313923261;49;38;73;75.43;2
