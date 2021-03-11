@@ -4,7 +4,7 @@
 
 This project is about Genre Identification on 996 books which are taken from Gutenberg Corpus. Corpus contains 9 genres. We are classifying each fiction book with a genre label not by using a bag of words model. First, features are extracted from each book using some popular libraries available for example, nltk, spacy etc and we have used three models and with the help of grid search, model selection is performed. Later test data is used to check how models are performing on unseen data and evaluation and visualization of results is performed.
 
-Refer here for full paper: 
+Refer here for full paper: https://github.com/nandish21594/genre_identification/blob/master/Project_Report.pdf
 
 ### Steps for Execution
 
